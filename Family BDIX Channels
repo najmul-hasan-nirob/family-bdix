@@ -1,0 +1,4 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/ATN_Bangla.svg/240px-ATN_Bangla.svg.png" group-title="Working BDIX",ATN BANGLA ((Medium Binge BDIX)
+http://tv2.ebox.live:8080/live/ex-atnbd1.m3u8
