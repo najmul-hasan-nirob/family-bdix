@@ -21,7 +21,7 @@ http://103.49.168.172:8081/ebox/bd_channel_i/chunks.m3u8
 http://tv2.ebox.live:8080/live/rtv.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c7/Boishakhi_TV_logo.svg/400px-Boishakhi_TV_logo.svg.png" group-title="BDIX",BOISHAKHI TV (Ebox)
-http://tv2.ebox.live:8080/live/ex-boishakhi-185946.ts
+http://tv2.ebox.live:8080/live/ex-boishakhi.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/TfqhT5g.png" group-title="BDIX",News 24 (Ebox)
 http://tv2.ebox.live:8080/live/ex-news24-20.m3u8
@@ -48,9 +48,9 @@ http://tv2.ebox.live:8080/live/colors-bangla.m3u8
 http://tv2.ebox.live:8080/live/zee-cinema-bangla.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d0/Star_Jalsha_logo.jpg" group-title="BDIX",Star Jalsha HD (Ebox)
-http://tv2.ebox.live:8080/live/star-jalsha-1030.ts
+http://103.49.168.172:8081/ebox/in_starjalsha_hd/chunks.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/ac/Jalsha_movies.png/220px-Jalsha_movies.png" group-title="BDIX",Star Jalsha Movies (Ebox)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/ac/Jalsha_movies.png/220px-Jalsha_movies.png" group-title="BDIX",Jalsha Movies (Ebox)
 http://tv2.ebox.live:8080/live/star-jalsha-movies.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTsqYP00JX6oXBCFzX0G7LdQ1GUt-yGdEn7dFB5V7hHYhca30g-&usqp=CAU" group-title="BDIX",Star Plus HD (Ebox)
@@ -59,4 +59,51 @@ http://tv2.ebox.live:8080/live/star-plus.m3u8
 #EXTINF:-1 tvg-logo="https://s4.gifyu.com/images/imageaf68096e14c7fa09.png" group-title="BDIX",Zee TV HD (Ebox)
 http://tv2.ebox.live:8080/live/zee-tv.m3u8
 
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/44vdhjj6fja02co/CBHD.jpg" group-title="BDIX",Colors Hindi (Ebox)
+http://tv2.ebox.live:8080/live/colors.m3u8
+
+#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/240f5ca0-c383-11ea-a8de-81e06aece287/424356/71120774.jpg" group-title="BDIX",Sony Tv HD (Ebox)
+http://tv2.ebox.live:8080/live/sonyhd.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b3/Sony_SAB_%28TV%29.png" group-title="BDIX",Sony SAB (Ebox)
+http://tv2.ebox.live:8080/live/sony-sab.m3u8
+
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/f/f0/Star_Gold_2011.png" group-title="BDIX",Star gold (Ebox)
+http://tv2.ebox.live:8080/live/star-gold.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.bestmediainfo.com/wp-content/uploads/2017/03/Star-Gold-Select-HD.jpg" group-title="BDIX",Star Gold Select HD (Ebox)
+http://tv2.ebox.live:8080/live/star-gold-select.m3u8
+
+#EXTINF:-1 tvg-logo="https://akamaividz.zee5.com/resources/0-9-zeecinemahd/list/386x386/09zeecinemahdzeecinemahd.png" group-title="Amarnet IPTV",Zee Cinema HD
+http://tv2.ebox.live:8080/live/zee-cinema.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2hPF1YB.png" group-title="BDIX",SONY MAX HD (Ebox)
+http://tv2.ebox.live:8080/live/sony-max.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0piOCHd.png?1" group-title="BDIX",Sony MAX2 (Ebox)
+http://tv2.ebox.live:8080/live/sony-max-2.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/NIfMrhI.png" group-title="BDIX",Star Movies HD (Ebox)
+http://tv2.ebox.live:8080/live/star-movies.m3u8
+
+#EXTINF:0 group-title="Two  IPTV" tvg-logo="https://i.imgur.com/gUu2nMa.png" group-title="BDIX",Sony Pix HD (Ebox)
+http://tv2.ebox.live:8080/live/sony-pix.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/L8LTymM.jpg" group-title="BDIX",HBO HD (Ebox)
+http://tv2.ebox.live:8080/live/hbo.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/5ca3012fcbc70colors-infinity-main.png/180px-5ca3012fcbc70colors-infinity-main.png" group-title="BDIX",Colors Infinity HD (Ebox)
+http://tv2.ebox.live:8080/live/color-Infinity.m3u8
+
+#EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sonic_Amarnet IPTV.png" group-title="BDIX",Nick (Ebox)
+http://tv2.ebox.live:8080/live/nick.m3u8
+
+#EXTINF:0 tvg-logo="https://s6.gifyu.com/images/imagecd8ecb4abf754cde.png" group-title="BDIX",Discovery HD (Ebox)
+http://tv2.ebox.live:8080/live/discovery.m3u8
+
+#EXTINF:-1 tvg-logo="http://45.249.187.238/images/logo.png" group-title="BDIX",Animal Planet HD (Ebox)
+http://tv2.ebox.live:8080/live/animale-planet.m3u8
+
+#EXTINF:-1 tvg-logo="https://github.com/amarnettv/amarnettv.github.io/raw/master/logo/Three IPTV.png" group-title="BDIX",National Geographic HD (Ebox)
+http://tv2.ebox.live:8080/live/natg.m3u8
 
