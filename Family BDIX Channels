@@ -1,15 +1,34 @@
 #EXTM3U
+
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/leielj83em5kg7h/somoy_Amarnet IPTV.png" group-title="BDIX",SOMOY TV (Ebox)
+http://103.49.168.172:8081/ebox/bd_somoy/chunks.m3u8
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/ATN_Bangla.svg/240px-ATN_Bangla.svg.png" group-title="BDIX",ATN BANGLA (Ebox)
 http://tv2.ebox.live:8080/live/ex-atnbd1.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/ZKFyzan2-xo/maxresdefault_live.jpg" group-title="BDIX",ATN Music (Ebox)
+http://103.49.168.172:8081/ebox/bd_atn_music/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/ec/e5/e4/ece5e49e4a220e78fce6069486cf5339.jpg" group-title="BDIX",JAMUNA TV (Ebox)
 http://tv2.ebox.live:8080/live/ex-jamuna.m3u8
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/fb/Asian_TV_Logo.svg/150px-Asian_TV_Logo.svg.png" group-title="BDIX",ASIAN TV (Ebox)
+http://103.49.168.172:8081/ebox/bd_asian_tv/chunks.m3u8
+
 #EXTINF:-1 tvg-logo="https://cdn.bongobd.com/upload/channels/landscape/Dh0neKDKLrs.png" group-title="BDIX",Channel 24 (Ebox)
 http://tv2.ebox.live:8080/live/ch24s1.m3u8
 
+#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/240f5ca0-c383-11ea-a8de-81e06aece287/424040/71120731.jpeg" group-title="BDIX",Mohona Tv (Ebox)
+http://103.49.168.172:8081/ebox/bd_mohona_tv/chunks.m3u8
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/11/T_Sports_logo.png/200px-T_Sports_logo.png" group-title="BDIX",T-sports (Ebox)
 http://tv2.ebox.live:8080/live/ex-titash2.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.deepto.tv/sites/default/files/deepto_tv_logo%20Edit.png" group-title="Bdix",DEEPTO TV HD (Ebox)
+http://103.49.168.172:8081/ebox/bd_deepto/chunks.m3u8
+
+#EXTINF:0 tvg-logo="https://s4.gifyu.com/images/imagea02f4314e761661d.png" group-title="BDIX",Ekattor Tv (Ebox)
+http://103.49.168.172:8081/ebox/bd_ekattor_tv/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6d/Banglavision.PNG" group-title="BDIX",Bangla Vision (Ebox)
 http://tv2.ebox.live:8080/live/banae3.m3u8
@@ -19,6 +38,18 @@ http://103.49.168.172:8081/ebox/bd_channel_i/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/41/Rtv_bangladesh.PNG/120px-Rtv_bangladesh.PNG" group-title="BDIX",RTV (Ebox)
 http://tv2.ebox.live:8080/live/rtv.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vPl5dF8.png" group-title="BDIX",NTV (Ebox)
+http://103.49.168.172:8081/ebox/bd_ntv/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://s4.gifyu.com/images/image9f4a0ee9cd069bad.png" group-title="BDIX",SA TV (Ebox)
+http://103.49.168.172:8081/ebox/bd_satv/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://concordrope.com/hzbd-iptv/logo/duronto_tv.jpg" group-title="BDIX",Duronto TV (Ebox)
+http://103.49.168.172:8081/ebox/bd_duronto_tv/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/81/Desh_tv.png" group-title="Three IPTV",DESH TV (Ebox)
+http://103.49.168.172:8081/ebox/bd_desh_tv/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c7/Boishakhi_TV_logo.svg/400px-Boishakhi_TV_logo.svg.png" group-title="BDIX",BOISHAKHI TV (Ebox)
 http://tv2.ebox.live:8080/live/ex-boishakhi.m3u8
@@ -43,6 +74,12 @@ http://tv2.ebox.live:8080/live/channel9.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/85/Colors_Bangla_Logo.jpg" group-title="BDIX",Colors Bangla (Ebox)
 http://tv2.ebox.live:8080/live/colors-bangla.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/klVzNhT.png" group-title="BDIX",Sangeet Bangla [Ebox]
+http://103.49.168.172:8081/ebox/in_sangeetbangla/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Sony_Aath_logo.svg/1200px-Sony_Aath_logo.svg.png" group-title="BDIX",Sony Aath (Ebox)
+http://103.49.168.172:8081/ebox/in_sonyaath/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/35/Zee_Bangla_New_Logo.jpg" group-title="BDIX",Zee Bangla Cinema (Ebox)
 http://tv2.ebox.live:8080/live/zee-cinema-bangla.m3u8
