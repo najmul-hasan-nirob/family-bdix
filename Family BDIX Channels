@@ -3,6 +3,9 @@
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/leielj83em5kg7h/somoy_Amarnet IPTV.png" group-title="BDIX",SOMOY TV (Ebox)
 http://103.49.168.172:8081/ebox/bd_somoy/chunks.m3u8
 
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/leielj83em5kg7h/somoy_Amarnet IPTV.png" group-title="BDIX",SOMOY TV (BongoBD)
+https://live.bongobd.com/hls/h1r1OB3IEZMMt2gT2C6Qnw/1607360485/shomoy_tv_hi/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/ATN_Bangla.svg/240px-ATN_Bangla.svg.png" group-title="BDIX",ATN BANGLA (Ebox)
 http://tv2.ebox.live:8080/live/ex-atnbd1.m3u8
 
@@ -24,7 +27,7 @@ http://103.49.168.172:8081/ebox/bd_mohona_tv/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/11/T_Sports_logo.png/200px-T_Sports_logo.png" group-title="BDIX",T-sports (Ebox)
 http://tv2.ebox.live:8080/live/ex-titash2.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.deepto.tv/sites/default/files/deepto_tv_logo%20Edit.png" group-title="Bdix",DEEPTO TV HD (Ebox)
+#EXTINF:-1 tvg-logo="https://www.deepto.tv/sites/default/files/deepto_tv_logo%20Edit.png" group-title="BDIX",DEEPTO TV HD (Ebox)
 http://103.49.168.172:8081/ebox/bd_deepto/chunks.m3u8
 
 #EXTINF:0 tvg-logo="https://s4.gifyu.com/images/imagea02f4314e761661d.png" group-title="BDIX",Ekattor Tv (Ebox)
@@ -48,7 +51,7 @@ http://103.49.168.172:8081/ebox/bd_satv/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://concordrope.com/hzbd-iptv/logo/duronto_tv.jpg" group-title="BDIX",Duronto TV (Ebox)
 http://103.49.168.172:8081/ebox/bd_duronto_tv/chunks.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/81/Desh_tv.png" group-title="Three IPTV",DESH TV (Ebox)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/81/Desh_tv.png" group-title="BDIX",DESH TV (Ebox)
 http://103.49.168.172:8081/ebox/bd_desh_tv/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c7/Boishakhi_TV_logo.svg/400px-Boishakhi_TV_logo.svg.png" group-title="BDIX",BOISHAKHI TV (Ebox)
@@ -87,6 +90,9 @@ http://tv2.ebox.live:8080/live/zee-cinema-bangla.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d0/Star_Jalsha_logo.jpg" group-title="BDIX",Star Jalsha HD (Ebox)
 http://103.49.168.172:8081/ebox/in_starjalsha_hd/chunks.m3u8
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d0/Star_Jalsha_logo.jpg" group-title="BDIX",Star Jalsha HD (Ebox)
+http://tv2.ebox.live:8080/live/star-jalsha.m3u8
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/ac/Jalsha_movies.png/220px-Jalsha_movies.png" group-title="BDIX",Jalsha Movies (Ebox)
 http://tv2.ebox.live:8080/live/star-jalsha-movies.m3u8
 
@@ -111,7 +117,7 @@ http://tv2.ebox.live:8080/live/star-gold.m3u8
 #EXTINF:-1 tvg-logo="https://www.bestmediainfo.com/wp-content/uploads/2017/03/Star-Gold-Select-HD.jpg" group-title="BDIX",Star Gold Select HD (Ebox)
 http://tv2.ebox.live:8080/live/star-gold-select.m3u8
 
-#EXTINF:-1 tvg-logo="https://akamaividz.zee5.com/resources/0-9-zeecinemahd/list/386x386/09zeecinemahdzeecinemahd.png" group-title="Amarnet IPTV",Zee Cinema HD
+#EXTINF:-1 tvg-logo="https://akamaividz.zee5.com/resources/0-9-zeecinemahd/list/386x386/09zeecinemahdzeecinemahd.png" group-title="BDIX",Zee Cinema HD
 http://tv2.ebox.live:8080/live/zee-cinema.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2hPF1YB.png" group-title="BDIX",SONY MAX HD (Ebox)
