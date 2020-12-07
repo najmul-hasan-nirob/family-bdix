@@ -1,62 +1,62 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/ATN_Bangla.svg/240px-ATN_Bangla.svg.png" group-title="",ATN BANGLA (Ebox BDIX)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/ATN_Bangla.svg/240px-ATN_Bangla.svg.png" group-title="BDIX",ATN BANGLA (Ebox)
 http://tv2.ebox.live:8080/live/ex-atnbd1.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/ec/e5/e4/ece5e49e4a220e78fce6069486cf5339.jpg" group-title="",JAMUNA TV (Ebox BDIX)
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/ec/e5/e4/ece5e49e4a220e78fce6069486cf5339.jpg" group-title="BDIX",JAMUNA TV (Ebox)
 http://tv2.ebox.live:8080/live/ex-jamuna.m3u8
 
-#EXTINF:-1 tvg-logo="https://cdn.bongobd.com/upload/channels/landscape/Dh0neKDKLrs.png" group-title="Working BDIX",Channel 24 (Ebox BDIX)
+#EXTINF:-1 tvg-logo="https://cdn.bongobd.com/upload/channels/landscape/Dh0neKDKLrs.png" group-title="BDIX",Channel 24 (Ebox)
 http://tv2.ebox.live:8080/live/ch24s1.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/11/T_Sports_logo.png/200px-T_Sports_logo.png" group-title="Working BDIX",T-sports (HD Ebox BDIX)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/11/T_Sports_logo.png/200px-T_Sports_logo.png" group-title="BDIX",T-sports (Ebox)
 http://tv2.ebox.live:8080/live/ex-titash2.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6d/Banglavision.PNG" group-title="Working BDIX",Bangla Vision (HD Ebox BDIX)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6d/Banglavision.PNG" group-title="BDIX",Bangla Vision (Ebox)
 http://tv2.ebox.live:8080/live/banae3.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/88/Channel-i.svg/384px-Channel-i.svg.png" group-title="Working BDIX", CHANNEL I (HD Ebox BDIX)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/88/Channel-i.svg/384px-Channel-i.svg.png" group-title="BDIX", CHANNEL I (Ebox)
 http://103.49.168.172:8081/ebox/bd_channel_i/chunks.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/41/Rtv_bangladesh.PNG/120px-Rtv_bangladesh.PNG" group-title="Working BDIX",RTV (HD ICC BDIX)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/41/Rtv_bangladesh.PNG/120px-Rtv_bangladesh.PNG" group-title="BDIX",RTV (Ebox)
 http://tv2.ebox.live:8080/live/rtv.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c7/Boishakhi_TV_logo.svg/400px-Boishakhi_TV_logo.svg.png" group-title="Working BDIX",BOISHAKHI TV (HD Ebox BDIX)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c7/Boishakhi_TV_logo.svg/400px-Boishakhi_TV_logo.svg.png" group-title="BDIX",BOISHAKHI TV (Ebox)
 http://tv2.ebox.live:8080/live/ex-boishakhi-185946.ts
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/TfqhT5g.png" group-title="Working BDIX",News 24 (HD Ebox BDIX)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TfqhT5g.png" group-title="BDIX",News 24 (Ebox)
 http://tv2.ebox.live:8080/live/ex-news24-20.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/XA5u4gk.png" group-title="Working BDIX",DBC News (Medium ICC BDIX)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/XA5u4gk.png" group-title="BDIX",DBC News (Ebox)
 http://tv2.ebox.live:8080/live/dbc.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/53/ATN_News_Logo_3.GIF/120px-ATN_News_Logo_3.GIF" group-title="Working BDIX",ATN NEWS (Medium ICC BDIX)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/53/ATN_News_Logo_3.GIF/120px-ATN_News_Logo_3.GIF" group-title="BDIX",ATN NEWS (BDIX)
 http://tv2.ebox.live:8080/live/ex-atnae.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Gaan_Bangla_Official_Logo_.png/220px-Gaan_Bangla_Official_Logo_.png" group-title="Working BDIX",Gaan Bangla Tv (Medium ICC BDIX)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Gaan_Bangla_Official_Logo_.png/220px-Gaan_Bangla_Official_Logo_.png" group-title="BDIX",Gaan Bangla Tv (Ebox)
 http://tv2.ebox.live:8080/live/ex-gan.m3u8
 
-#EXTINF:0 tvg-logo="https://s4.gifyu.com/images/image54942a3647a21709.png" group-title="Working BDIX",Maasranga (Medium Binge BDIX)
+#EXTINF:0 tvg-logo="https://s4.gifyu.com/images/image54942a3647a21709.png" group-title="BDIX",Maasranga (Ebox)
 http://tv2.ebox.live:8080/live/maasranga.m3u8
 
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/ff/Channel9_bd.svg/260px-Channel9_bd.svg.png" group-title="Working BDIX",Channel 9 (Medium Binge BDIX)
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/ff/Channel9_bd.svg/260px-Channel9_bd.svg.png" group-title="BDIX",Channel 9 (Ebox)
 http://tv2.ebox.live:8080/live/channel9.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/85/Colors_Bangla_Logo.jpg" group-title="Working BDIX",Colors Bangla (Medium Ebox BDIX)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/85/Colors_Bangla_Logo.jpg" group-title="BDIX",Colors Bangla (Ebox)
 http://tv2.ebox.live:8080/live/colors-bangla.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/35/Zee_Bangla_New_Logo.jpg" group-title="Working BDIX",Zee Bangla Cinema (Medium ICC BDIX)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/35/Zee_Bangla_New_Logo.jpg" group-title="BDIX",Zee Bangla Cinema (Ebox)
 http://tv2.ebox.live:8080/live/zee-cinema-bangla.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d0/Star_Jalsha_logo.jpg" group-title="Working BDIX",Star Jalsha HD (Medium ICC BDIX)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d0/Star_Jalsha_logo.jpg" group-title="BDIX",Star Jalsha HD (Ebox)
 http://tv2.ebox.live:8080/live/star-jalsha-1030.ts
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/ac/Jalsha_movies.png/220px-Jalsha_movies.png" group-title="Working BDIX",Star Jalsha Movies (Medium ICC BDIX)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/ac/Jalsha_movies.png/220px-Jalsha_movies.png" group-title="BDIX",Star Jalsha Movies (Ebox)
 http://tv2.ebox.live:8080/live/star-jalsha-movies.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTsqYP00JX6oXBCFzX0G7LdQ1GUt-yGdEn7dFB5V7hHYhca30g-&usqp=CAU" group-title="Not BDIX",Star Plus HD (UNBDIX HD)
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTsqYP00JX6oXBCFzX0G7LdQ1GUt-yGdEn7dFB5V7hHYhca30g-&usqp=CAU" group-title="BDIX",Star Plus HD (Ebox)
 http://tv2.ebox.live:8080/live/star-plus.m3u8
 
-#EXTINF:-1 tvg-logo="https://s4.gifyu.com/images/imageaf68096e14c7fa09.png" group-title="Working BDIX",Zee TV HD (Low ICC BDIX)
+#EXTINF:-1 tvg-logo="https://s4.gifyu.com/images/imageaf68096e14c7fa09.png" group-title="BDIX",Zee TV HD (Ebox)
 http://tv2.ebox.live:8080/live/zee-tv.m3u8
 
 
