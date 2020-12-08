@@ -12,7 +12,7 @@ http://tv2.ebox.live:8080/live/ex-atnbd1.m3u8
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/ec/e5/e4/ece5e49e4a220e78fce6069486cf5339.jpg" group-title="BDIX",JAMUNA TV (Ebox)
 http://tv2.ebox.live:8080/live/ex-jamuna.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/fb/Asian_TV_Logo.svg/150px-Asian_TV_Logo.svg.png" group-title="BDIX",ASIAN TV (Ebox)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/fb/Asian_TV_Logo.svg/150px-Asian_TV_Logo.svg.png" group-title="BDIX",ASIAN TV (AKlive Tv)
 http://aklivetv.com:8080/durantotv/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn.bongobd.com/upload/channels/landscape/Dh0neKDKLrs.png" group-title="BDIX",Channel 24 (Ebox)
@@ -27,7 +27,7 @@ http://tv2.ebox.live:8080/live/ex-titash2.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/20/GTVBangladeshLogo.png/220px-GTVBangladeshLogo.png" group-title="BDIX",Gazi Tv (KliveTv)
 http://aklivetv.com:8080/gazitv/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.deepto.tv/sites/default/files/deepto_tv_logo%20Edit.png" group-title="BDIX",DEEPTO TV HD (Ibox)
+#EXTINF:-1 tvg-logo="https://www.deepto.tv/sites/default/files/deepto_tv_logo%20Edit.png" group-title="BDIX",DEEPTO TV HD (AKlive Tv)
 http://aklivetv.com:8080/deeptotv/tracks-v1a1/mono.m3u8
 
 #EXTINF:0 tvg-logo="https://s4.gifyu.com/images/imagea02f4314e761661d.png" group-title="BDIX",Ekattor Tv (Ebox)
@@ -89,6 +89,9 @@ http://tv2.ebox.live:8080/live/zee-cinema-bangla.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d0/Star_Jalsha_logo.jpg" group-title="BDIX",Star Jalsha HD (Ebox)
 http://tv2.ebox.live:8080/live/star-jalsha.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d0/Star_Jalsha_logo.jpg" group-title="BDIX",Star Jalsha HD (KliveTv)
+http://aklivetv.com:8080/starjalsha/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d0/Star_Jalsha_logo.jpg" group-title="BDIX",Star Jalsha HD (Hitectv)
 https://any.hitectv.live:4443/starjalsha/tracks-v1a1/mono.m3u8
