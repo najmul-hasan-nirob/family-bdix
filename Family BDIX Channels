@@ -3,6 +3,9 @@
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/leielj83em5kg7h/somoy_Amarnet IPTV.png" group-title="BDIX",SOMOY TV (Ibox)
 http://103.135.208.14:8082/17/index.m3u8?token=31d244733f20985896b843bfb62f3d205e8c6393-e975cc3a7e42c86533ab3881a9f473d5-1607426938-1607416138&remote=103.63.157.218
 
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/leielj83em5kg7h/somoy_Amarnet IPTV.png" group-title="BDIX",SOMOY TV (Dflix)
+http://tv.dflix.live:8082/17/mono.m3u8?token=1c8a73f4df925fd5bc5da079d52e86ba482334e8-ecddab13d486cf7c927cf4c6e11a6bb0-1607445156-1607434356&remote=10.160.2.102
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/ATN_Bangla.svg/240px-ATN_Bangla.svg.png" group-title="BDIX",ATN BANGLA (Ebox)
 http://tv2.ebox.live:8080/live/ex-atnbd1.m3u8
 
@@ -13,7 +16,7 @@ http://103.49.168.172:8081/ebox/bd_atn_music/chunks.m3u8
 http://tv2.ebox.live:8080/live/ex-jamuna.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/fb/Asian_TV_Logo.svg/150px-Asian_TV_Logo.svg.png" group-title="BDIX",ASIAN TV (Ebox)
-http://103.49.168.172:8081/ebox/bd_asian_tv/chunks.m3u8
+http://aklivetv.com:8080/durantotv/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn.bongobd.com/upload/channels/landscape/Dh0neKDKLrs.png" group-title="BDIX",Channel 24 (Ebox)
 http://tv2.ebox.live:8080/live/ch24s1.m3u8
@@ -25,7 +28,7 @@ http://103.49.168.172:8081/ebox/bd_mohona_tv/chunks.m3u8
 http://tv2.ebox.live:8080/live/ex-titash2.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.deepto.tv/sites/default/files/deepto_tv_logo%20Edit.png" group-title="BDIX",DEEPTO TV HD (Ibox)
-http://103.135.208.14:8082/8/index.m3u8?token=70bc0f319bfa633dac6092b790b40b521dced7ac-decb4ee5292bb0258d95c670b71704e8-1607428228-1607417428&remote=103.63.157.218
+http://aklivetv.com:8080/deeptotv/tracks-v1a1/mono.m3u8
 
 #EXTINF:0 tvg-logo="https://s4.gifyu.com/images/imagea02f4314e761661d.png" group-title="BDIX",Ekattor Tv (Ebox)
 http://103.49.168.172:8081/ebox/bd_ekattor_tv/chunks.m3u8
