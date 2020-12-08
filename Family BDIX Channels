@@ -90,6 +90,9 @@ https://any.hitectv.live:4443/starjalsha/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d0/Star_Jalsha_logo.jpg" group-title="BDIX",Star Jalsha HD (Anytv)
 https://ccntv.anytv.live/starjalsha/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/35/Zee_Bangla_New_Logo.jpg" group-title="BDIX",Zee Bangla Ebox)
+http://tv2.ebox.live:8080/live/zee-bangla.m3u8
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/ac/Jalsha_movies.png/220px-Jalsha_movies.png" group-title="BDIX",Jalsha Movies (Hitectv)
 https://any.hitectv.live:4443/jalshamovies/tracks-v1a1/mono.m3u8
 
