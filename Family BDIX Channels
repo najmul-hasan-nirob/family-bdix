@@ -9,9 +9,6 @@ http://tv.dflix.live:8082/17/mono.m3u8?token=1c8a73f4df925fd5bc5da079d52e86ba482
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/ATN_Bangla.svg/240px-ATN_Bangla.svg.png" group-title="BDIX",ATN BANGLA (Ebox)
 http://tv2.ebox.live:8080/live/ex-atnbd1.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/ZKFyzan2-xo/maxresdefault_live.jpg" group-title="BDIX",ATN Music (Ebox)
-http://103.49.168.172:8081/ebox/bd_atn_music/chunks.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/ec/e5/e4/ece5e49e4a220e78fce6069486cf5339.jpg" group-title="BDIX",JAMUNA TV (Ebox)
 http://tv2.ebox.live:8080/live/ex-jamuna.m3u8
 
@@ -87,6 +84,9 @@ http://103.49.168.172:8081/ebox/in_sonyaath/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/35/Zee_Bangla_New_Logo.jpg" group-title="BDIX",Zee Bangla Cinema (Ebox)
 http://tv2.ebox.live:8080/live/zee-cinema-bangla.m3u8
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d0/Star_Jalsha_logo.jpg" group-title="BDIX",Star Jalsha HD (Ebox)
+http://tv2.ebox.live:8080/live/star-jalsha.m3u8
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d0/Star_Jalsha_logo.jpg" group-title="BDIX",Star Jalsha HD (Hitectv)
 https://any.hitectv.live:4443/starjalsha/tracks-v1a1/mono.m3u8
 
@@ -95,6 +95,9 @@ https://ccntv.anytv.live/starjalsha/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/35/Zee_Bangla_New_Logo.jpg" group-title="BDIX",Zee Bangla Ebox)
 http://tv2.ebox.live:8080/live/zee-bangla.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/ac/Jalsha_movies.png/220px-Jalsha_movies.png" group-title="BDIX",Jalsha Movies (Ebox)
+http://tv2.ebox.live:8080/live/star-jalsha-movies.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/ac/Jalsha_movies.png/220px-Jalsha_movies.png" group-title="BDIX",Jalsha Movies (Hitectv)
 https://any.hitectv.live:4443/jalshamovies/tracks-v1a1/mono.m3u8
@@ -153,9 +156,6 @@ http://tv2.ebox.live:8080/live/natg.m3u8
 #EXTINF:-1 tvg-logo="http://tv2.ebox.live/img/logos/sonysixhd.jpg" group-title="BDIX",Sony SIX (Ebox)
 http://tv2.ebox.live:8080/live/sonysix.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/VydQYEg.jpg" group-title="BDIX",ESPN HD (Ebox)
-http://tv2.ebox.live:8080/live/sonyespn.m3u8
-
 #EXTINF:-1 tvg-logo="http://tv2.ebox.live/img/logos/sony-ten1.jpg" group-title="BDIX",Sony Ten 1 HD (Ebox)
 http://tv2.ebox.live:8080/live/sonyten-1.m3u8
 
@@ -164,6 +164,27 @@ http://tv2.ebox.live:8080/live/sonyten-2.m3u8
 
 #EXTINF:-1 tvg-logo="http://tv2.ebox.live/img/logos/sonyten3.jpg" group-title="BDIX",Sony Ten 3 HD (Ebox)
 http://tv2.ebox.live:8080/live/sonyten-3.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KhZPrnw.jpg" group-title="BDIX",Star Sports 1 (Ebox)
+http://tv2.ebox.live:8080/live/starsports-1.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KhZPrnw.jpg" group-title="BDIX",Star Sports 1 Hindi (Ebox)
+http://tv2.ebox.live:8080/live/starsports-1-hind.m3u8
+
+#EXTINF:-1 tvg-logo="http://tv2.ebox.live/img/logos/star-sports-2.jpg" group-title="BDIX",Star Sports 2 (Ebox)
+http://tv2.ebox.live:8080/live/starsportshd-2.m3u8
+
+#EXTINF:-1 tvg-logo="http://tv2.ebox.live/img/logos/star-sports-3.jpg" group-title="BDIX",Star Sports 3 (Ebox)
+http://tv2.ebox.live:8080/live/starsports-3.m3u8
+
+#EXTINF:-1 tvg-logo="http://tv2.ebox.live/img/logos/star-sports-select-1.jpg" group-title="BDIX",Star Sports Select 1 (Ebox)
+http://tv2.ebox.live:8080/live/starsportsselect-1.m3u8
+
+#EXTINF:-1 tvg-logo="http://tv2.ebox.live/img/logos/star-sports-select-2.jpg" group-title="BDIX",Star Sports Select 2 (Ebox)
+http://tv2.ebox.live:8080/live/starsportsselect-2.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VydQYEg.jpg" group-title="BDIX",ESPN HD (Ebox)
+http://tv2.ebox.live:8080/live/sonyespn.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/nOrLoWi.jpg" group-title="BDIX",Willow Cricket HD (Ebox)
 http://tv2.ebox.live:8080/live/willow-cric.m3u8
