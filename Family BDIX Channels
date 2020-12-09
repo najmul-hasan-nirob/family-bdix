@@ -4,7 +4,7 @@
 http://103.49.168.172:8081/ebox/bd_somoy/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/leielj83em5kg7h/somoy_Amarnet IPTV.png" group-title="BDIX",SOMOY TV (Dflix)
-http://tv.dflix.live:8082/17/mono.m3u8?token=1478022e1c6afeffd8622cdb2ef09d9923ac5d68-5ee7dc96a3f4308d32a450aeebb91fb3-1607534513-1607523713
+http://tv.dflix.live:8082/17/mono.m3u8?token=1478022e1c6afeffd8622cdb2ef09d9923ac5d68-5ee7dc96a3f4308d32a450aeebb91fb3-1607534513-1607523713&remote=10.160.2.102
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/ATN_Bangla.svg/240px-ATN_Bangla.svg.png" group-title="BDIX",ATN BANGLA (Ebox)
 http://tv2.ebox.live:8080/live/ex-atnbd1.m3u8
