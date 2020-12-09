@@ -78,8 +78,11 @@ http://tv2.ebox.live:8080/live/channel9.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/85/Colors_Bangla_Logo.jpg" group-title="BDIX",Colors Bangla (Ebox)
 http://tv2.ebox.live:8080/live/colors-bangla.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/klVzNhT.png" group-title="BDIX",Sangeet Bangla [Ebox]
+#EXTINF:-1 tvg-logo="https://i.imgur.com/klVzNhT.png" group-title="BDIX",Sangeet Bangla (Ebox)
 http://103.49.168.172:8081/ebox/in_sangeetbangla/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/klVzNhT.png" group-title="BDIX",Sangeet Bangla (Dflix)
+http://tv.dflix.live:8082/33/mono.m3u8?token=d71ac63267648adc2fa38ff4adda920d609093bb-f5121c997a4f2476c12a8f4cce60bb20-1607537262-1607526462&remote=10.160.2.102
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fD7wLka.jpg" group-title="BDIX",9xM (AKlive Tv)
 http://aklivetv.com:8080/9xm/tracks-v1a1/mono.m3u8
