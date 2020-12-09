@@ -24,7 +24,7 @@ http://103.49.168.172:8081/ebox/bd_mohona_tv/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/11/T_Sports_logo.png/200px-T_Sports_logo.png" group-title="BDIX",T-sports (Ebox)
 http://tv2.ebox.live:8080/live/ex-titash2.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/20/GTVBangladeshLogo.png/220px-GTVBangladeshLogo.png" group-title="BDIX",Gazi Tv (KliveTv)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/20/GTVBangladeshLogo.png/220px-GTVBangladeshLogo.png" group-title="BDIX",GTv (AKlive Tv)
 http://aklivetv.com:8080/gazitv/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.deepto.tv/sites/default/files/deepto_tv_logo%20Edit.png" group-title="BDIX",DEEPTO TV HD (AKlive Tv)
@@ -81,6 +81,9 @@ http://tv2.ebox.live:8080/live/colors-bangla.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/klVzNhT.png" group-title="BDIX",Sangeet Bangla [Ebox]
 http://103.49.168.172:8081/ebox/in_sangeetbangla/chunks.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fD7wLka.jpg" group-title="BDIX",9xM (AKlive Tv)
+http://aklivetv.com:8080/9xm/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Sony_Aath_logo.svg/1200px-Sony_Aath_logo.svg.png" group-title="BDIX",Sony Aath (Ebox)
 http://103.49.168.172:8081/ebox/in_sonyaath/chunks.m3u8
 
@@ -90,7 +93,7 @@ http://tv2.ebox.live:8080/live/zee-cinema-bangla.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d0/Star_Jalsha_logo.jpg" group-title="BDIX",Star Jalsha HD (Ebox)
 http://tv2.ebox.live:8080/live/star-jalsha.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d0/Star_Jalsha_logo.jpg" group-title="BDIX",Star Jalsha HD (KliveTv)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d0/Star_Jalsha_logo.jpg" group-title="BDIX",Star Jalsha HD (AKlive Tv)
 http://aklivetv.com:8080/starjalsha/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d0/Star_Jalsha_logo.jpg" group-title="BDIX",Star Jalsha HD (Hitectv)
