@@ -43,14 +43,11 @@ http://103.205.133.21/hls/mohonatv.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/11/T_Sports_logo.png/200px-T_Sports_logo.png" group-title="BDIX",T-sports (Ebox)
 http://tv2.ebox.live:8080/live/ex-titash2.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/20/GTVBangladeshLogo.png/220px-GTVBangladeshLogo.png" group-title="BDIX",GTv (AKlive Tv)
-http://aklivetv.com:8080/gazitv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/20/GTVBangladeshLogo.png/220px-GTVBangladeshLogo.png" group-title="BDIX",Gazi Tv (Encrypted)
+PT1BTzFOVGJ1WXpMT1JFUkhSMVF2NEVSRWRFVkQ5U1oybEdidlV6TTVFak9sWlhhczVpZDBsMmF1WUhkd2wyTHZvRGMwUkhh
 
 #EXTINF:0 tvg-id="ext" tvg-logo="https://www.deepto.tv/sites/default/files/deepto_tv_logo%20Edit.png" group-title="BDIX",DEEPTO TV HD (Unknown)
 http://103.205.133.21/hls/deeptotv.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.deepto.tv/sites/default/files/deepto_tv_logo%20Edit.png" group-title="BDIX",DEEPTO TV HD (AKlive Tv)
-http://aklivetv.com:8080/deeptotv/tracks-v1a1/mono.m3u8
 
 #EXTINF:0 tvg-logo="https://s4.gifyu.com/images/imagea02f4314e761661d.png" group-title="BDIX",Ekattor Tv (Ebox)
 http://103.49.168.172:8081/ebox/bd_ekattor_tv/chunks.m3u8
@@ -61,8 +58,14 @@ http://103.205.133.21/hls/mytv.m3u8?Live-TV™
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6d/Banglavision.PNG" group-title="BDIX",Bangla Vision (Ebox)
 http://tv2.ebox.live:8080/live/banae3.m3u8
 
+#EXTINF:0 tvg-language="Bangla" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/ff/Channel9_bd.svg/520px-Channel9_bd.svg.png" group-title="BDIX",9.Channel 9 (JagoBD)
+https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/channel9hd.stream/chunks.m3u8
+
 #EXTINF:0 tvg-id="ext" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/88/Channel-i.svg/384px-Channel-i.svg.png" group-title="BDIX",CHANNEL I HD (Unknown)
 http://103.205.133.21/hls/ichannel.m3u8
+
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/bn/thumb/e/e3/নাগরিক_টিভি.svg/300px-নাগরিক_টিভি.svg.png" group-title="BDIX",Nagorik TV (Unknown)
+http://103.205.133.21/hls/nagorik.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/88/Channel-i.svg/384px-Channel-i.svg.png" group-title="BDIX", CHANNEL I (Ebox)
 http://103.49.168.172:8081/ebox/bd_channel_i/chunks.m3u8
@@ -85,8 +88,23 @@ http://103.49.168.172:8081/ebox/bd_satv/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://concordrope.com/hzbd-iptv/logo/duronto_tv.jpg" group-title="BDIX",Duronto TV (Ebox)
 http://103.49.168.172:8081/ebox/bd_duronto_tv/chunks.m3u8
 
+#EXTINF:-1 tvg-logo="http://www.jagobd.com/wp-content/uploads/2020/05/Channel-S-LOGO.jpg" group-title="BDIX",CHANNEL S (JagoBD)
+https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/chsukoff.stream/chunks.m3u8
+
 #EXTINF:0 tvg-id="ext" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/81/Desh_tv.png" group-title="BDIX",DESH TV (Unknown)
 http://103.205.133.21/hls/deshtv.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.jagobd.com/wp-content/uploads/2016/02/bangla21tv.jpg?x91288" group-title="BDIX",JAGO_Bangla 21 IPTV (JagoBD)
+https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/bangla21tv000889956-sg.stream/chunks.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="BDIX",71 Bangla TV (JagoBD)
+https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/71bangla.stream/chunks.m3u8?Live-TV™
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/kVT6VKt/cumilla24.png" group-title="BDIX",Cumilla 24 TV (JagoBD)
+https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/cumilla24.stream/chunks.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="BDIX",Digi Bangla TV (Unknown)
+http://103.205.133.21/hls/digibangla.m3u8?Live-TV™
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c7/Boishakhi_TV_logo.svg/400px-Boishakhi_TV_logo.svg.png" group-title="BDIX",BOISHAKHI TV (Ebox)
 http://tv2.ebox.live:8080/live/ex-boishakhi.m3u8
