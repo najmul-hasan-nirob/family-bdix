@@ -55,6 +55,9 @@ http://103.49.168.172:8081/ebox/bd_ekattor_tv/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/TWuzjbg.jpg" group-title="Family IPTV",My TV (Unknown)
 http://103.205.133.21/hls/mytv.m3u8?Live-TV™
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7YYHYiW.png" group-title="BDIX",Jagoroni TV (JagoBD)
+https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/jagoronitv.stream/chunks.m3u8
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6d/Banglavision.PNG" group-title="BDIX",Bangla Vision (Ebox)
 http://tv2.ebox.live:8080/live/banae3.m3u8
 
@@ -66,6 +69,9 @@ http://103.205.133.21/hls/ichannel.m3u8
 
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/bn/thumb/e/e3/নাগরিক_টিভি.svg/300px-নাগরিক_টিভি.svg.png" group-title="BDIX",Nagorik TV (Unknown)
 http://103.205.133.21/hls/nagorik.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.jagobd.com/wp-content/uploads/2018/09/joyjatra1.jpg" group-title="BDIX",Joy Jatra TV (JagoBD)
+https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/joyjatratv.stream/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/88/Channel-i.svg/384px-Channel-i.svg.png" group-title="BDIX", CHANNEL I (Ebox)
 http://103.49.168.172:8081/ebox/bd_channel_i/chunks.m3u8
@@ -201,15 +207,6 @@ https://any.hitectv.live:4443/sonymax/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0piOCHd.png?1" group-title="BDIX",Sony MAX2 (Ebox)
 http://tv2.ebox.live:8080/live/sony-max-2.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/NIfMrhI.png" group-title="BDIX",Star Movies HD (Ebox)
-http://tv2.ebox.live:8080/live/star-movies.m3u8
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcR7cxawaQ1xSUyl6Pa1YzGhZQ3HFkqNlCirzlyfFzn7JB8RRASH&usqp=CAU" group-title="BDIX",HBO HD (CtgIptv)
-http://ctgiptv.kitv.live:1935/live/test/test1/45.m3u8
-
-#EXTINF:0 group-title="Two  IPTV" tvg-logo="https://i.imgur.com/gUu2nMa.png" group-title="BDIX",Sony Pix HD (Ebox)
-http://tv2.ebox.live:8080/live/sony-pix.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/5ca3012fcbc70colors-infinity-main.png/180px-5ca3012fcbc70colors-infinity-main.png" group-title="BDIX",Colors Infinity HD (Ebox)
 http://tv2.ebox.live:8080/live/color-Infinity.m3u8
