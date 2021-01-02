@@ -44,7 +44,7 @@ http://103.205.133.21/hls/mohonatv.m3u8
 http://tv2.ebox.live:8080/live/ex-titash2.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/20/GTVBangladeshLogo.png/220px-GTVBangladeshLogo.png" group-title="BDIX",Gazi Tv (Encrypted)
-PT1BTzFOVGJ1WXpMT1JFUkhSMVF2NEVSRWRFVkQ5U1oybEdidlV6TTVFak9sWlhhczVpZDBsMmF1WUhkd2wyTHZvRGMwUkhh
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/6.m3u8
 
 #EXTINF:0 tvg-id="ext" tvg-logo="https://www.deepto.tv/sites/default/files/deepto_tv_logo%20Edit.png" group-title="BDIX",DEEPTO TV HD (Unknown)
 http://103.205.133.21/hls/deeptotv.m3u8
@@ -161,7 +161,7 @@ http://tv2.ebox.live:8080/live/zee-cinema-bangla.m3u8
 http://tv2.ebox.live:8080/live/star-jalsha.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d0/Star_Jalsha_logo.jpg" group-title="BDIX",Star Jalsha HD (LiveTv)
-http://103.205.133.48/hls/chsj.m3u8
+https://rhridoy136.shortcm.li/starjalshahd.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d0/Star_Jalsha_logo.jpg" group-title="BDIX",Star Jalsha HD (CtgIptv)
 http://ctgiptv.kitv.live:1935/live/ASNet/asnetwork/27.m3u8
