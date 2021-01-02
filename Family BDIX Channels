@@ -5,7 +5,7 @@
 http://103.49.168.172:8081/ebox/bd_somoy/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/leielj83em5kg7h/somoy_Amarnet IPTV.png" group-title="BDIX",SOMOY TV (Encrypt)
-PT1BTzFOVGJ1TTNhdVZIYWo5U2JoVm1jME5uTDBRVE4wUVROMUVqTjJJak14RURNd0FETTBsM2J0OTJjdmtFVlE1R2FRbFdZeFV6VmhSblVYRjJjR1JXYlBSRlV6NGtWbGRsUkZSMVFLVmtXTloxUmpablo1MWtlSkZqVDZWR01WQkRNVXBWUzRkVld5a2pSaXBuUmxGMmJGUjJaQlJsVDJFbGVuSmxOVlJVU0hCVFJFMVVlNGtuVDRoVGFObFRWRkpHY1NoRFc1WlZia2xuVmFOMkwwUURONjAyYmo1Q1ppOTJaaHBtTGxKWGQwRm1ibmwyY3cxV1owOXlMNk1IYzBSSGE=
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/14.m3u8
 
 #EXTINF:0 tvg-id="ext" tvg-logo="https://www.logolynx.com/images/logolynx/9c/9c5b4fa9279f5fee551097a733b98405.jpeg" group-title="BDIX",Natun Somoy (JaduBD)
 http://server1.jadubd.com/natunTV/natunTV/chunklist_w1287147693.m3u8?Live-TV™
