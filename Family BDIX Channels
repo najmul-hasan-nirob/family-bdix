@@ -42,7 +42,7 @@ http://tv2.ebox.live:8080/live/banae3.m3u8
 #EXTINF:0 tvg-id="ext" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/81/Desh_tv.png" group-title="BDIX",DESH TV (Unknown)
 http://103.205.133.21/hls/deshtv.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/TWuzjbg.jpg" group-title="Family IPTV",My TV (Encrypted)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TWuzjbg.jpg" group-title="BDIX",My TV (Encrypted)
 https://tempsignature.jagobd.com:444/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZT00U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/mytv-up-off.stream/chunks.m3u8
 
 #EXTINF:0 tvg-id="ext" tvg-logo="https://m3u-editor.com/storage/channel-logos/240f5ca0-c383-11ea-a8de-81e06aece287/424040/71120731.jpeg" group-title="BDIX",MOHONA TV (Encrypted)
@@ -171,6 +171,9 @@ http://tv2.ebox.live:8080/live/zee-cinema.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/6c/SET_India.jpg/220px-SET_India.jpg" group-title="BDIX",Sony Entertainment Television (Encrypted)
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/26.m3u8
+
+#EXTINF:-1 tvg-logo="ext" group-title="BDIX",Zing (Encrypted)
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/81.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2hPF1YB.png" group-title="BDIX",SONY MAX HD (Ebox)
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/31.m3u8
