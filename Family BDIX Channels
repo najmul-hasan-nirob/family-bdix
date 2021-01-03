@@ -1,6 +1,8 @@
 #EXTM3U
 
-#11112020
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f8/Bangladesh_Television_logo.png/220px-Bangladesh_Television_logo.png" group-title="BDIX",BTV (Encrypted)
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/19.m3u8
+
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/leielj83em5kg7h/somoy_Amarnet IPTV.png" group-title="BDIX",SOMOY TV (Ebox)
 http://103.49.168.172:8081/ebox/bd_somoy/chunks.m3u8
 
