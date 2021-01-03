@@ -111,8 +111,6 @@ https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF
 #EXTINF:-1 tvg-logo="http://www.jagobd.com/wp-content/uploads/2018/09/joyjatra1.jpg" group-title="BDIX",Joy Jatra TV (JagoBD)
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/joyjatratv.stream/chunks.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/vPl5dF8.png" group-title="BDIX",NTV (Ebox)
-http://103.49.168.172:8081/ebox/bd_ntv/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.jagobd.com/wp-content/uploads/2020/05/Channel-S-LOGO.jpg" group-title="BDIX",CHANNEL S (JagoBD)
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/chsukoff.stream/chunks.m3u8
@@ -125,9 +123,6 @@ https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF
 
 #EXTINF:0 tvg-id="ext" group-title="BDIX",Digi Bangla TV (Unknown)
 http://103.205.133.21/hls/digibangla.m3u8?Live-TV™
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c7/Boishakhi_TV_logo.svg/400px-Boishakhi_TV_logo.svg.png" group-title="BDIX",BOISHAKHI TV (Ebox)
-http://tv2.ebox.live:8080/live/ex-boishakhi.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Gaan_Bangla_Official_Logo_.png/220px-Gaan_Bangla_Official_Logo_.png" group-title="BDIX",Gaan Bangla Tv (Ebox)
 http://tv2.ebox.live:8080/live/ex-gan.m3u8
@@ -147,7 +142,7 @@ http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/22.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/ac/Jalsha_movies.png/220px-Jalsha_movies.png" group-title="BDIX",Jalsha Movies (Ebox)
 http://tv2.ebox.live:8080/live/star-jalsha-movies.m3u8
 
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d0/Star_Jalsha_logo.jpg" group-title="BDIX",112.Jalsha Movies (Encrypted)
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d0/Star_Jalsha_logo.jpg" group-title="BDIX",Jalsha Movies (Encrypted)
 http://45.127.244.7:8080/hls/channel13.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/35/Zee_Bangla_New_Logo.jpg" group-title="BDIX",Zee Bangla (Ebox)
@@ -204,8 +199,8 @@ http://tv2.ebox.live:8080/live/color-Infinity.m3u8
 #EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sonic_Amarnet IPTV.png" group-title="BDIX",Nick (Ebox)
 http://tv2.ebox.live:8080/live/nick.m3u8
 
-#EXTINF:0 tvg-logo="https://s6.gifyu.com/images/imagecd8ecb4abf754cde.png" group-title="BDIX",Discovery HD (Ebox)
-http://tv2.ebox.live:8080/live/discovery.m3u8
+#EXTINF:0 tvg-logo="https://s6.gifyu.com/images/imagecd8ecb4abf754cde.png" group-title="BDIX",Discovery HD Bangla (Encrypted)
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/61.m3u8
 
 #EXTINF:-1 tvg-logo="http://45.249.187.238/images/logo.png" group-title="BDIX",Animal Planet HD (Ebox)
 http://tv2.ebox.live:8080/live/animale-planet.m3u8
