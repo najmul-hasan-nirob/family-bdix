@@ -1,7 +1,7 @@
 #EXTM3U
 
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f8/Bangladesh_Television_logo.png/220px-Bangladesh_Television_logo.png" group-title="BDIX",BTV (Encrypted)
-http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/19.m3u8
+http://103.205.133.20/hls/btv.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.jagobd.com/wp-content/uploads/2015/12/btv.jpg?x91288" group-title="BDIX",BTV World (Encrypted)
 https://tempsignature.jagobd.com:444/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZT00U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/btvbd-office-sg.stream/chunks.m3u8
@@ -13,7 +13,7 @@ https://tempsignature.jagobd.com:444/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgd
 http://tv2.ebox.live:8080/live/ex-atnbd1.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/53/ATN_News_Logo_3.GIF/120px-ATN_News_Logo_3.GIF" group-title="BDIX",ATN NEWS (Ebox)
-http://tv2.ebox.live:8080/live/ex-atnae.m3u8
+http://103.205.133.21/hls/atnnews.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.jagobd.com/wp-content/uploads/2016/02/atnislamictv.jpg?x91288" group-title="BDIX",ATN Islamic (Encrypted)
 https://tempsignature.jagobd.com:444/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZT00U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/atnislamictv.stream/chunks.m3u8
@@ -66,7 +66,7 @@ http://103.205.133.21/hls/satv.m3u8
 #EXTINF:0 tvg-id="ext" tvg-logo="https://www.deepto.tv/sites/default/files/deepto_tv_logo%20Edit.png" group-title="BDIX",DEEPTO TV HD (Unknown)
 http://103.205.133.21/hls/deeptotv.m3u8
 
-#EXTINF:0 tvg-id="ext" group-title="BDIX",71 Bangla TV (Encrypted)
+#EXTINF:0 tvg-id="ext" group-title="BDIX",Bangla TV (Encrypted)
 https://tempsignature.jagobd.com:444/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZT00U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/banglatvhd.stream/chunks.m3u8
 
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/bn/thumb/e/e3/নাগরিক_টিভি.svg/300px-নাগরিক_টিভি.svg.png" group-title="BDIX",Nagorik TV (Unknown)
@@ -78,8 +78,8 @@ https://tempsignature.jagobd.com:444/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgd
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/leielj83em5kg7h/somoy_Amarnet IPTV.png" group-title="BDIX",SOMOY TV (Encrypt)
 https://tempsignature.jagobd.com:444/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZT00U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/somoyt000011226615544544.stream/chunks.m3u8
 
-#EXTINF:-1 tvg-logo="https://cdn.bongobd.com/upload/channels/landscape/Dh0neKDKLrs.png" group-title="BDIX",Channel 24 (Ebox)
-http://tv2.ebox.live:8080/live/ch24s1.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.bongobd.com/upload/channels/landscape/Dh0neKDKLrs.png" group-title="BDIX",Channel 24 (Encrypt)
+https://tempsignature.jagobd.com:444/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZT00U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/channel24-sg-e8e.stream/chunks.m3u8
 
 #EXTINF:0 tvg-logo="https://s4.gifyu.com/images/imagea02f4314e761661d.png" group-title="BDIX",Ekattor Tv (Ebox)
 http://103.49.168.172:8081/ebox/bd_ekattor_tv/chunks.m3u8
@@ -127,7 +127,7 @@ http://tv2.ebox.live:8080/live/ex-gan.m3u8
 http://103.205.133.21/hls/sangeetbangla.m3u8
 
 #EXTINF:0 tvg-id="ext" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Sony_Aath_logo.svg/1200px-Sony_Aath_logo.svg.png" group-title="BDIX",Sony Aath (Encrypted)
-http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/20.m3u8
+http://103.205.133.20/hls/sony8.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d0/Star_Jalsha_logo.jpg" group-title="BDIX",Star Jalsha HD (Ebox)
 http://tv2.ebox.live:8080/live/star-jalsha.m3u8
