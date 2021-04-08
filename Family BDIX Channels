@@ -1,7 +1,7 @@
 #EXTM3U
 
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f8/Bangladesh_Television_logo.png/220px-Bangladesh_Television_logo.png" group-title="BDIX",BTV (Encrypted)
-http://103.205.133.20/hls/btv.m3u8
+http://103.205.133.21/hls/btv.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.jagobd.com/wp-content/uploads/2015/12/btv.jpg?x91288" group-title="BDIX",BTV World (Encrypted)
 https://tempsignature.jagobd.com:444/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZT00U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/btvbd-office-sg.stream/chunks.m3u8
@@ -9,8 +9,8 @@ https://tempsignature.jagobd.com:444/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgd
 #EXTINF:-1 tvg-logo="http://www.jagobd.com/wp-content/uploads/2017/01/songsodtv.jpg?x91288" group-title="BDIX",Sangsad TV (Encrypted)
 https://tempsignature.jagobd.com:444/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZT00U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/songsodtv-world.stream/chunks.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/ATN_Bangla.svg/240px-ATN_Bangla.svg.png" group-title="BDIX",ATN BANGLA (Ebox)
-http://tv2.ebox.live:8080/live/ex-atnbd1.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/ATN_Bangla.svg/240px-ATN_Bangla.svg.png" group-title="BDIX",ATN BANGLA (Unknown)
+http://103.205.133.21/hls/atnbangla.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/53/ATN_News_Logo_3.GIF/120px-ATN_News_Logo_3.GIF" group-title="BDIX",ATN NEWS (Ebox)
 http://103.205.133.21/hls/atnnews.m3u8
@@ -27,8 +27,8 @@ http://103.205.133.21/hls/ichannel.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e7/ETV.jpg" group-title="BDIX",EKUSHEY TV (Unknown)
 http://103.205.133.21/hls/ekushey.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/41/Rtv_bangladesh.PNG/120px-Rtv_bangladesh.PNG" group-title="BDIX",RTV (Ebox)
-http://tv2.ebox.live:8080/live/rtv.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/41/Rtv_bangladesh.PNG/120px-Rtv_bangladesh.PNG" group-title="BDIX",RTV (Unknown)
+http://103.205.133.21/hls/rtv.m3u8
 
 #EXTINF:0 tvg-id="NTV.uk" tvg-logo="https://i.imgur.com/vPl5dF8.png" group-title="BDIX",NTV (Unknown)
 http://103.205.133.21/hls/ntv.m3u8
@@ -37,16 +37,16 @@ http://103.205.133.21/hls/ntv.m3u8
 https://tempsignature.jagobd.com:444/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZT00U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/boishakhitv-org.stream/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6d/Banglavision.PNG" group-title="BDIX",Bangla Vision (Ebox)
-http://tv2.ebox.live:8080/live/banae3.m3u8
+http://103.205.133.21/hls/banglavision.m3u8
 
 #EXTINF:0 tvg-id="ext" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/81/Desh_tv.png" group-title="BDIX",DESH TV (Unknown)
 http://103.205.133.21/hls/deshtv.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/TWuzjbg.jpg" group-title="BDIX",My TV (Encrypted)
-https://tempsignature.jagobd.com:444/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZT00U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/mytv-up-off.stream/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TWuzjbg.jpg" group-title="BDIX",My TV (Unknown)
+http://103.205.133.21/hls/mytv.m3u8
 
-#EXTINF:0 tvg-id="ext" tvg-logo="https://m3u-editor.com/storage/channel-logos/240f5ca0-c383-11ea-a8de-81e06aece287/424040/71120731.jpeg" group-title="BDIX",MOHONA TV (Encrypted)
-https://tempsignature.jagobd.com:444/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZT00U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/mohonatv00000223232244556633.stream/chunks.m3u8
+#EXTINF:0 tvg-id="ext" tvg-logo="https://m3u-editor.com/storage/channel-logos/240f5ca0-c383-11ea-a8de-81e06aece287/424040/71120731.jpeg" group-title="BDIX",MOHONA TV (Unknow)
+http://103.205.133.21/hls/mohonatv.m3u8
 
 #EXTINF:0 tvg-id="ext" tvg-logo="https://s4.gifyu.com/images/image54942a3647a21709.png" group-title="BDIX",MAASRANGA TV HD (Unknown)
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/mass.stream/chunks.m3u8
@@ -59,6 +59,9 @@ http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/6.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/fb/Asian_TV_Logo.svg/150px-Asian_TV_Logo.svg.png" group-title="BDIX",ASIAN TV (AKlive Tv)
 http://aklivetv.com:8080/durantotv/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://s6.gifyu.com/images/image225ddda68974970a.png" group-title="BDIX", Ruposhi Bangla (Unknown)
+http://103.205.133.21/hls/ruposhibangla.m3u8
 
 #EXTINF:0 tvg-id="ext" tvg-logo="https://s4.gifyu.com/images/image9f4a0ee9cd069bad.png" group-title="BDIX",SA TV HD (Unknown)
 http://103.205.133.21/hls/satv.m3u8
@@ -76,10 +79,10 @@ http://103.205.133.21/hls/nagorik.m3u8
 https://tempsignature.jagobd.com:444/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZT00U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/independent-8-org.stream/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/leielj83em5kg7h/somoy_Amarnet IPTV.png" group-title="BDIX",SOMOY TV (Encrypt)
-https://tempsignature.jagobd.com:444/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZT00U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/somoyt000011226615544544.stream/chunks.m3u8
+http://103.205.133.21/hls/somoy.m3u8
 
-#EXTINF:-1 tvg-logo="https://cdn.bongobd.com/upload/channels/landscape/Dh0neKDKLrs.png" group-title="BDIX",Channel 24 (Encrypt)
-https://tempsignature.jagobd.com:444/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZT00U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/channel24-sg-e8e.stream/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.bongobd.com/upload/channels/landscape/Dh0neKDKLrs.png" group-title="BDIX",Channel 24 (Unknown)
+http://103.205.133.21/hls/channel24.m3u8
 
 #EXTINF:0 tvg-logo="https://s4.gifyu.com/images/imagea02f4314e761661d.png" group-title="BDIX",Ekattor Tv (Ebox)
 http://103.49.168.172:8081/ebox/bd_ekattor_tv/chunks.m3u8
@@ -87,11 +90,11 @@ http://103.49.168.172:8081/ebox/bd_ekattor_tv/chunks.m3u8
 #EXTINF:0 tvg-id="ext" tvg-logo="https://i.pinimg.com/originals/ec/e5/e4/ece5e49e4a220e78fce6069486cf5339.jpg" group-title="BDIX",JAMUNA TV (Encrypted)
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/jamuna-test-sample-ok.stream/chunks.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/TfqhT5g.png" group-title="BDIX",News 24 (Ebox)
-http://tv2.ebox.live:8080/live/ex-news24-20.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TfqhT5g.png" group-title="BDIX",News 24 (Unknown)
+http://103.205.133.21/hls/news24.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/XA5u4gk.png" group-title="BDIX",DBC News (Ebox)
-http://tv2.ebox.live:8080/live/dbc.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/XA5u4gk.png" group-title="BDIX",DBC News (Unknown)
+http://103.205.133.21/hls/dbcnews.m3u8
 
 #EXTINF:-1 tvg-logo="https://concordrope.com/hzbd-iptv/logo/duronto_tv.jpg" group-title="BDIX",Duronto TV (Ebox)
 http://103.49.168.172:8081/ebox/bd_duronto_tv/chunks.m3u8
@@ -120,14 +123,14 @@ https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF
 #EXTINF:-1 tvg-logo="https://i.ibb.co/kVT6VKt/cumilla24.png" group-title="BDIX",Cumilla 24 TV (JagoBD)
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/cumilla24.stream/chunks.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Gaan_Bangla_Official_Logo_.png/220px-Gaan_Bangla_Official_Logo_.png" group-title="BDIX",Gaan Bangla Tv (Ebox)
-http://tv2.ebox.live:8080/live/ex-gan.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Gaan_Bangla_Official_Logo_.png/220px-Gaan_Bangla_Official_Logo_.png" group-title="BDIX",Gaan Bangla Tv (Unknown)
+http://103.205.133.21/hls/gaanbangla.m3u8
 
 #EXTINF:0 tvg-id="SangeetBangla.in" tvg-logo="https://i.imgur.com/klVzNhT.png" group-title="BDIX",Sangeet Bangla (Unknown)
 http://103.205.133.21/hls/sangeetbangla.m3u8
 
 #EXTINF:0 tvg-id="ext" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Sony_Aath_logo.svg/1200px-Sony_Aath_logo.svg.png" group-title="BDIX",Sony Aath (Encrypted)
-http://103.205.133.20/hls/sony8.m3u8
+http://103.205.133.21/hls/sony8.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d0/Star_Jalsha_logo.jpg" group-title="BDIX",Star Jalsha HD (Ebox)
 http://tv2.ebox.live:8080/live/star-jalsha.m3u8
@@ -152,6 +155,9 @@ http://tv2.ebox.live:8080/live/colors-bangla.m3u8
 
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/44vdhjj6fja02co/CBHD.jpg" group-title="BDIX",Colors Hindi (Ebox)
 http://tv2.ebox.live:8080/live/colors.m3u8
+
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/44vdhjj6fja02co/CBHD.jpg" group-title="BDIX",Colors Hindi (Unknown)
+http://103.205.133.21/hls/chc.m3u8
 
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/f/f0/Star_Gold_2011.png" group-title="BDIX",Star gold (Ebox)
 http://tv2.ebox.live:8080/live/star-gold.m3u8
@@ -184,7 +190,7 @@ http://103.205.133.21/hls/9xm.m3u8
 http://103.49.168.172:8081/ebox/in_sonypix/chunks.m3u8
 
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/240f5ca0-c383-11ea-a8de-81e06aece287/424356/71120774.jpg" group-title="BDIX",Sony Tv HD (Ebox)
-http://tv2.ebox.live:8080/live/sonyhd.m3u8
+http://103.205.133.21/hls/chs.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b3/Sony_SAB_%28TV%29.png" group-title="BDIX",Sony SAB (Ebox)
 http://tv2.ebox.live:8080/live/sony-sab.m3u8
