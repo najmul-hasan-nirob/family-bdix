@@ -133,7 +133,7 @@ http://103.205.133.21/hls/sangeetbangla.m3u8
 http://103.205.133.21/hls/sony8.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d0/Star_Jalsha_logo.jpg" group-title="BDIX",Star Jalsha HD (Ebox)
-http://tv2.ebox.live:8080/live/star-jalsha.m3u8
+http://tv.ebox.live:8081/thunderbd/30/chunks.m3u8?nimblesessionid=611444&wmsAuthSign=c2VydmVyX3RpbWU9NS8xOC8yMDIxIDQ6MTE6MzggQU0maGFzaF92YWx1ZT1SbCsvblU3aHlYVFhFVEg5Y0NnWlZnPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d0/Star_Jalsha_logo.jpg" group-title="BDIX",Star Jalsha HD (Encrypted)
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/22.m3u8
