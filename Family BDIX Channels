@@ -54,8 +54,8 @@ https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF
 #EXTINF:0 tvg-language="Bangla" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/ff/Channel9_bd.svg/520px-Channel9_bd.svg.png" group-title="BDIX",Channel 9 (Encrypted)
 https://tempsignature.jagobd.com:444/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZT00U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/channel9hd.stream/chunks.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/20/GTVBangladeshLogo.png/220px-GTVBangladeshLogo.png" group-title="BDIX",Gazi Tv (Encrypted)
-http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/6.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/20/GTVBangladeshLogo.png/220px-GTVBangladeshLogo.png" group-title="BDIX",Gazi Tv (IHub)
+http://cdn.ihub.live:8080/j-GTV/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/fb/Asian_TV_Logo.svg/150px-Asian_TV_Logo.svg.png" group-title="BDIX",ASIAN TV (AKlive Tv)
 http://aklivetv.com:8080/durantotv/tracks-v1a1/mono.m3u8
@@ -105,8 +105,8 @@ https://tempsignature.jagobd.com:444/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgd
 #EXTINF:0 tvg-id="ext" tvg-logo="https://www.logolynx.com/images/logolynx/9c/9c5b4fa9279f5fee551097a733b98405.jpeg" group-title="BDIX",Natun Somoy (JaduBD)
 http://server1.jadubd.com/natunTV/natunTV/chunklist_w1287147693.m3u8?Live-TV™
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/11/T_Sports_logo.png/200px-T_Sports_logo.png" group-title="BDIX",T-sports (Ebox)
-http://tv2.ebox.live:8080/live/ex-titash2.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/11/T_Sports_logo.png/200px-T_Sports_logo.png" group-title="BDIX",T-sports (IHub)
+http://cdn.ihub.live:8080/j-GTV/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7YYHYiW.png" group-title="BDIX",Jagoroni TV (JagoBD)
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/jagoronitv.stream/chunks.m3u8
@@ -135,8 +135,8 @@ http://103.205.133.21/hls/sony8.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d0/Star_Jalsha_logo.jpg" group-title="BDIX",Star Jalsha HD (Ebox)
 http://tv.ebox.live:8081/thunderbd/30/chunks.m3u8?nimblesessionid=611444&wmsAuthSign=c2VydmVyX3RpbWU9NS8xOC8yMDIxIDQ6MTE6MzggQU0maGFzaF92YWx1ZT1SbCsvblU3aHlYVFhFVEg5Y0NnWlZnPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d0/Star_Jalsha_logo.jpg" group-title="BDIX",Star Jalsha HD (Encrypted)
-http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/22.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d0/Star_Jalsha_logo.jpg" group-title="BDIX",Star Jalsha HD (IHub)
+http://cdn.ihub.live:8080/j-star-jalsha/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/ac/Jalsha_movies.png/220px-Jalsha_movies.png" group-title="BDIX",Jalsha Movies (Ebox)
 http://tv2.ebox.live:8080/live/star-jalsha-movies.m3u8
