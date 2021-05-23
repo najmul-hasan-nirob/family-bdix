@@ -36,7 +36,7 @@ http://103.205.133.21/hls/ntv.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c7/Boishakhi_TV_logo.svg/400px-Boishakhi_TV_logo.svg.png" group-title="BDIX",BOISHAKHI TV (IHub)
 http://cdn.ihub.live:8080/j-BoishakhiTV/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6d/Banglavision.PNG" group-title="BDIX",Bangla Vision (Ebox)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6d/Banglavision.PNG" group-title="BDIX",Bangla Vision (Unknown)
 http://103.205.133.21/hls/banglavision.m3u8
 
 #EXTINF:0 tvg-id="ext" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/81/Desh_tv.png" group-title="BDIX",DESH TV (Unknown)
@@ -87,8 +87,8 @@ http://103.205.133.21/hls/channel24.m3u8
 #EXTINF:0 tvg-logo="https://s4.gifyu.com/images/imagea02f4314e761661d.png" group-title="BDIX",Ekattor Tv (Ebox)
 http://103.49.168.172:8081/ebox/bd_ekattor_tv/chunks.m3u8
 
-#EXTINF:0 tvg-id="ext" tvg-logo="https://i.pinimg.com/originals/ec/e5/e4/ece5e49e4a220e78fce6069486cf5339.jpg" group-title="BDIX",JAMUNA TV (Encrypted)
-https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/jamuna-test-sample-ok.stream/chunks.m3u8
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.pinimg.com/originals/ec/e5/e4/ece5e49e4a220e78fce6069486cf5339.jpg" group-title="BDIX",JAMUNA TV (Unknown)
+http://103.205.133.21/hls/jamunatv.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/TfqhT5g.png" group-title="BDIX",News 24 (Unknown)
 http://103.205.133.21/hls/news24.m3u8
