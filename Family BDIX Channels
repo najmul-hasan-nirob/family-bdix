@@ -212,3 +212,73 @@ http://tv2.ebox.live:8080/live/animale-planet.m3u8
 
 #EXTINF:-1 tvg-logo="https://github.com/amarnettv/amarnettv.github.io/raw/master/logo/Three IPTV.png" group-title="BDIX",National Geographic HD (Ebox)
 http://tv2.ebox.live:8080/live/natg.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://tv2.ebox.live/img/logos/sonysixhd.jpg" group-title="BDIX",Sony SIX (Ebox)
+http://tv2.ebox.live:8080/live/sonysix.m3u8
+
+#EXTINF:-1 tvg-logo="http://tv2.ebox.live/img/logos/sonysixhd.jpg" group-title="BDIX",Sony SIX (Unknown)
+http://103.205.133.21/hls/sonysix.m3u8
+
+#EXTINF:-1 tvg-logo="http://tv2.ebox.live/img/logos/sony-ten1.jpg" group-title="BDIX",Sony Ten 1 HD (Ebox)
+http://tv2.ebox.live:8080/live/sonyten-1.m3u8
+
+#EXTINF:-1 tvg-logo="http://tv2.ebox.live/img/logos/sony-ten1.jpg" group-title="BDIX",Sony Ten 1 (Unknown)
+http://103.205.133.21/hls/ten1.m3u8
+
+#EXTINF:-1 tvg-logo="http://tv2.ebox.live/img/logos/sony-ten2.jpg" group-title="BDIX",Sony Ten 2 HD (Ebox)
+http://tv2.ebox.live:8080/live/sonyten-2.m3u8
+
+#EXTINF:-1 tvg-logo="http://tv2.ebox.live/img/logos/sony-ten2.jpg" group-title="BDIX",Sony Ten 2 (Unknown)
+http://103.205.133.21/hls/ten2.m3u8
+
+#EXTINF:-1 tvg-logo="http://tv2.ebox.live/img/logos/sonyten3.jpg" group-title="BDIX",Sony Ten 3 HD (Ebox)
+http://tv2.ebox.live:8080/live/sonyten-3.m3u8
+
+#EXTINF:-1 tvg-logo="http://tv2.ebox.live/img/logos/sonyten3.jpg" group-title="BDIX",Sony Ten 3 (Unknown)
+http://103.205.133.21/hls/ten3.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KhZPrnw.jpg" group-title="BDIX",Star Sports 1 (Ebox)
+http://tv2.ebox.live:8080/live/starsports-1.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KhZPrnw.jpg" group-title="BDIX",Star Sports 1 Hindi (Ebox)
+http://tv2.ebox.live:8080/live/starsports-1-hind.m3u8
+
+#EXTINF:-1 tvg-logo="http://tv2.ebox.live/img/logos/star-sports-2.jpg" group-title="BDIX",Star Sports 2 (Ebox)
+http://tv2.ebox.live:8080/live/starsportshd-2.m3u8
+
+#EXTINF:-1 tvg-logo="http://tv2.ebox.live/img/logos/star-sports-3.jpg" group-title="BDIX",Star Sports 3 (Ebox)
+http://tv2.ebox.live:8080/live/starsports-3.m3u8
+
+#EXTINF:-1 tvg-logo="http://tv2.ebox.live/img/logos/star-sports-select-1.jpg" group-title="BDIX",Star Sports Select 1 (Ebox)
+http://tv2.ebox.live:8080/live/starsportsselect-1.m3u8
+
+#EXTINF:-1 tvg-logo="http://tv2.ebox.live/img/logos/star-sports-select-2.jpg" group-title="BDIX",Star Sports Select 2 (Ebox)
+http://tv2.ebox.live:8080/live/starsportsselect-2.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VydQYEg.jpg" group-title="BDIX",ESPN HD (Ebox)
+http://tv2.ebox.live:8080/live/sonyespn.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/nOrLoWi.jpg" group-title="BDIX",Willow Cricket HD (Ebox)
+http://tv2.ebox.live:8080/live/willow-cric.m3u8
+
+#EXTINF:-1 tvg-logo="http://tv2.ebox.live/img/logos/ptvsports.jpg" group-title="BDIX",PTv Sports (Ebox)
+http://tv2.ebox.live:8080/live/ptvsports.m3u8
+
+#EXTINF:-1 tvg-logo="http://tv2.ebox.live/img/logos/skycric.jpg" group-title="BDIX",Sky Sports Cricket (Ebox)
+http://tv2.ebox.live:8080/live/Sky-Sports-cric.m3u8
+
+#EXTINF:-1 tvg-logo="http://tv2.ebox.live/img/logos/skysportsmix.jpg" group-title="BDIX",Sky Sports Mix (Ebox)
+http://tv2.ebox.live:8080/live/Sky-Sports-Mix.m3u8
+
+#EXTINF:-1 tvg-logo="http://tv2.ebox.live/img/logos/beinsports-1.jpg" group-title="BDIX",Bein Sports HD 1 (Ebox)
+http://tv2.ebox.live:8080/live/bein-sports-1.m3u8
+
+#EXTINF:-1 tvg-logo="http://tv2.ebox.live/img/logos/beinsports-2.jpg" group-title="BDIX",Bein Sports HD 2 (Ebox)
+http://tv2.ebox.live:8080/live/bein-sports-2.m3u8
+
+#EXTINF:-1 tvg-logo="http://tv2.ebox.live/img/logos/beinsports-11.jpg" group-title="BDIX",Bein Sports HD 11 English (Ebox)
+http://tv2.ebox.live:8080/live/bein-sports-eng-11.m3u8
+
+#EXTINF:-1 tvg-logo="http://tv2.ebox.live/img/logos/beinsports-fr-1.jpg" group-title="BDIX",Bein Sports HD 1 FR (Ebox)
+http://tv2.ebox.live:8080/live/bein-sports-fr-1.m3u8
