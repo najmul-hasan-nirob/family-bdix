@@ -28,6 +28,10 @@ http://tv.ebox.live:8081/thunderbd/5/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9M
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/11/T_Sports_logo.png/200px-T_Sports_logo.png" group-title="BDIX",Gazi Tv (TV Ebox)
 http://tv.ebox.live:8081/thunderbd/1/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvNC8yMDIxIDU6Mzg6MDUgQU0maGFzaF92YWx1ZT1xUGFyNFVBR0R0WG5mVk1JbW8ydmNnPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/11/T_Sports_logo.png/200px-T_Sports_logo.png" group-title="BDIX",Gazi Tv test (TV Ebox)
+http://tv.ebox.live:8081/thunderbd/1/chunks.m3u8?nimblesessionid=6386582&wmsAuthSign=c2VydmVyX3RpbWU9MTEvNC8yMDIxIDc6MzQ6MTcgQU0maGFzaF92YWx1ZT15Sk9LMnB3U1pVRXd5NHlrZ2pMYStnPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
+
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/11/T_Sports_logo.png/200px-T_Sports_logo.png" group-title="BDIX",T-sports (TV Ebox)
 http://tv.ebox.live:8081/thunderbd/1/chunks.m3u8?nimblesessionid=6243186&wmsAuthSign=c2VydmVyX3RpbWU9MTEvMy8yMDIxIDI6MDU6NDggUE0maGFzaF92YWx1ZT1LaGRxWDFEY25aV2F2U3o5bStuWldRPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
 
