@@ -1,19 +1,29 @@
 #EXTM3U tv ebox
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/02/Bangladesh_Television_Logo.svg/220px-Bangladesh_Television_Logo.svg.png" group-title="BDIX",BTV (TV Ebox)
+http://tv.ebox.live:8081/thunderbd/53/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvNC8yMDIxIDY6MTI6MTAgQU0maGFzaF92YWx1ZT1ybE05alp2bVR1bHoxYlhFYnNVblZRPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=%22;
+
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/leielj83em5kg7h/somoy_Amarnet IPTV.png" group-title="BDIX",SOMOY TV (TV Ebox)
 http://tv.ebox.live:8081/thunderbd/17/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvNC8yMDIxIDU6NDY6NDEgQU0maGFzaF92YWx1ZT0vM1h5MkpocDlWU05OWk0xeGo4bGhnPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/ATN_Bangla.svg/240px-ATN_Bangla.svg.png" group-title="BDIX",ATN BANGLA (Ebox)
-http://tv2.ebox.live:8080/live/ex-atnbd1.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/ATN_Bangla.svg/240px-ATN_Bangla.svg.png" group-title="BDIX",ATN BANGLA (TV Ebox)
+http://tv.ebox.live:8081/thunderbd/2/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvNC8yMDIxIDY6MTI6MTAgQU0maGFzaF92YWx1ZT1ybE05alp2bVR1bHoxYlhFYnNVblZRPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=%22;
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c7/Boishakhi_TV_logo.svg/400px-Boishakhi_TV_logo.svg.png" group-title="BDIX",BOISHAKHI TV (Ebox)
-http://103.49.168.172:8081/ebox/bd_boishakhi/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c7/Boishakhi_TV_logo.svg/400px-Boishakhi_TV_logo.svg.png" group-title="BDIX",BOISHAKHI TV (TV Ebox)
+http://tv.ebox.live:8081/thunderbd/61/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvNC8yMDIxIDc6MTI6MTkgQU0maGFzaF92YWx1ZT1IUGRCUWNPRUl2QWZncDY5cjdrVXd3PT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
 
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/ec/e5/e4/ece5e49e4a220e78fce6069486cf5339.jpg" group-title="BDIX",JAMUNA TV (TV Ebox)
 http://tv.ebox.live:8081/thunderbd/13/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvNC8yMDIxIDU6NTM6NTYgQU0maGFzaF92YWx1ZT12Z0YwRStNRStMSktJTUxKUlZZdTlRPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
 
-#EXTINF:-1 tvg-logo="https://cdn.bongobd.com/upload/channels/landscape/Dh0neKDKLrs.png" group-title="BDIX",Channel 24 (Ebox)
-http://tv2.ebox.live:8080/live/ch24s1.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e8/Ekushey_Television_Logo.png/240px-Ekushey_Television_Logo.png" group-title="BDIX",Ekushe TV (TV Ebox)
+http://tv.ebox.live:8081/thunderbd/65/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvNC8yMDIxIDY6MTI6MTAgQU0maGFzaF92YWx1ZT1ybE05alp2bVR1bHoxYlhFYnNVblZRPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=%22;
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/bn/f/f9/%E0%A6%8F%E0%A6%9F%E0%A6%BF%E0%A6%8F%E0%A6%A8_%E0%A6%87%E0%A6%B8%E0%A6%B2%E0%A6%BE%E0%A6%AE%E0%A6%BF%E0%A6%95_%E0%A6%9F%E0%A6%BF%E0%A6%AD%E0%A6%BF_%E0%A6%B2%E0%A7%8B%E0%A6%97%E0%A7%8B.png" group-title="BDIX",ATN Islamic Tv (TV Ebox)
+http://tv.ebox.live:8081/thunderbd/63/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvNC8yMDIxIDU6NTM6NTYgQU0maGFzaF92YWx1ZT12Z0YwRStNRStMSktJTUxKUlZZdTlRPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
+
+
+#EXTINF:-1 tvg-logo="https://cdn.bongobd.com/upload/channels/landscape/Dh0neKDKLrs.png" group-title="BDIX",Channel 24 (TV Ebox)
+http://tv.ebox.live:8081/thunderbd/5/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvNC8yMDIxIDY6MTI6MTAgQU0maGFzaF92YWx1ZT1ybE05alp2bVR1bHoxYlhFYnNVblZRPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=%22;
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/11/T_Sports_logo.png/200px-T_Sports_logo.png" group-title="BDIX",Gazi Tv (TV Ebox)
 http://tv.ebox.live:8081/thunderbd/1/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvNC8yMDIxIDU6Mzg6MDUgQU0maGFzaF92YWx1ZT1xUGFyNFVBR0R0WG5mVk1JbW8ydmNnPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
@@ -21,101 +31,122 @@ http://tv.ebox.live:8081/thunderbd/1/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9M
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/11/T_Sports_logo.png/200px-T_Sports_logo.png" group-title="BDIX",T-sports (TV Ebox)
 http://tv.ebox.live:8081/thunderbd/1/chunks.m3u8?nimblesessionid=6243186&wmsAuthSign=c2VydmVyX3RpbWU9MTEvMy8yMDIxIDI6MDU6NDggUE0maGFzaF92YWx1ZT1LaGRxWDFEY25aV2F2U3o5bStuWldRPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/11/T_Sports_logo.png/200px-T_Sports_logo.png" group-title="BDIX",T-sports 2 (TV Ebox)
+http://tv.ebox.live:8081/thunderbd/102/chunks.m3u8?nimblesessionid=6243186&wmsAuthSign=c2VydmVyX3RpbWU9MTEvMy8yMDIxIDI6MDU6NDggUE0maGFzaF92YWx1ZT1LaGRxWDFEY25aV2F2U3o5bStuWldRPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/11/T_Sports_logo.png/200px-T_Sports_logo.png" group-title="BDIX",T-sports (TV2 Ebox)
 http://tv2.ebox.live:8080/live/nk-tsports.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6d/Banglavision.PNG" group-title="BDIX",Bangla Vision (Ebox)
-http://tv2.ebox.live:8080/live/banae3.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6d/Banglavision.PNG" group-title="BDIX",Bangla Vision (TV Ebox)
+http://tv.ebox.live:8081/thunderbd/3/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvNC8yMDIxIDY6MTI6MTAgQU0maGFzaF92YWx1ZT1ybE05alp2bVR1bHoxYlhFYnNVblZRPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=%22;
 
-#EXTINF:0 tvg-logo="https://s4.gifyu.com/images/imagea02f4314e761661d.png" group-title="BDIX",Ekattor Tv (Ebox)
-http://103.49.168.172:8081/ebox/bd_ekattor_tv/chunks.m3u8
+#EXTINF:0 tvg-logo="https://s4.gifyu.com/images/imagea02f4314e761661d.png" group-title="BDIX",Ekattor Tv (TV Ebox)
+http://tv.ebox.live:8081/thunderbd/11/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvNC8yMDIxIDY6MTI6MTAgQU0maGFzaF92YWx1ZT1ybE05alp2bVR1bHoxYlhFYnNVblZRPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=%22;
 
-#EXTINF:0 tvg-id="ext" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/88/Channel-i.svg/384px-Channel-i.svg.png" group-title="BDIX",CHANNEL I HD (Unknown)
-http://103.205.133.21/hls/ichannel.m3u8
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/fb/Asian_TV_Logo.svg/150px-Asian_TV_Logo.svg.png" group-title="BDIX",Asian Tv (TV Ebox)
+http://tv.ebox.live:8081/thunderbd/62/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvNC8yMDIxIDY6MTI6MTAgQU0maGFzaF92YWx1ZT1ybE05alp2bVR1bHoxYlhFYnNVblZRPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=%22;
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/41/Rtv_bangladesh.PNG/120px-Rtv_bangladesh.PNG" group-title="BDIX",RTV (Ebox)
-http://tv2.ebox.live:8080/live/rtv.m3u8
+#EXTINF:0 tvg-id="ext" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/88/Channel-i.svg/384px-Channel-i.svg.png" group-title="BDIX",CHANNEL I HD (TV Ebox)
+http://tv.ebox.live:8081/thunderbd/6/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvNC8yMDIxIDY6MTI6MTAgQU0maGFzaF92YWx1ZT1ybE05alp2bVR1bHoxYlhFYnNVblZRPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=%22;
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/vPl5dF8.png" group-title="BDIX",NTV (Ebox)
-http://103.49.168.172:8081/ebox/bd_ntv/chunks.m3u8
+#EXTINF:0 tvg-id="ext" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/b1/My_TV_Logo.svg/260px-My_TV_Logo.svg.png" group-title="BDIX",My TV (TV Ebox)
+http://tv.ebox.live:8081/thunderbd/56/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvNC8yMDIxIDY6MTI6MTAgQU0maGFzaF92YWx1ZT1ybE05alp2bVR1bHoxYlhFYnNVblZRPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=%22;
 
-#EXTINF:-1 tvg-logo="https://s4.gifyu.com/images/image9f4a0ee9cd069bad.png" group-title="BDIX",SA TV (Ebox)
-http://103.49.168.172:8081/ebox/bd_satv/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/41/Rtv_bangladesh.PNG/120px-Rtv_bangladesh.PNG" group-title="BDIX",RTV (TV Ebox)
+http://tv.ebox.live:8081/thunderbd/14/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvNC8yMDIxIDY6MTI6MTAgQU0maGFzaF92YWx1ZT1ybE05alp2bVR1bHoxYlhFYnNVblZRPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=%22;
 
-#EXTINF:-1 tvg-logo="https://concordrope.com/hzbd-iptv/logo/duronto_tv.jpg" group-title="BDIX",Duronto TV (Ebox)
-http://103.49.168.172:8081/ebox/bd_duronto_tv/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vPl5dF8.png" group-title="BDIX",NTV (TV Ebox)
+http://tv.ebox.live:8081/thunderbd/54/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvNC8yMDIxIDY6MTI6MTAgQU0maGFzaF92YWx1ZT1ybE05alp2bVR1bHoxYlhFYnNVblZRPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=%22;
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c7/Boishakhi_TV_logo.svg/400px-Boishakhi_TV_logo.svg.png" group-title="BDIX",BOISHAKHI TV (Ebox)
-http://tv2.ebox.live:8080/live/ex-boishakhi.m3u8
+#EXTINF:-1 tvg-logo="data:image/jpeg;base64,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" group-title="BDIX",Mohona Tv (TV Ebox)
+http://tv.ebox.live:8081/thunderbd/50/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvNC8yMDIxIDY6MTI6MTAgQU0maGFzaF92YWx1ZT1ybE05alp2bVR1bHoxYlhFYnNVblZRPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=%22;
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/TfqhT5g.png" group-title="BDIX",News 24 (Ebox)
-http://tv2.ebox.live:8080/live/ex-news24-20.m3u8
+#EXTINF:-1 tvg-logo="https://s4.gifyu.com/images/image9f4a0ee9cd069bad.png" group-title="BDIX",SA TV (TV Ebox)
+http://tv.ebox.live:8081/thunderbd/15/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvNC8yMDIxIDY6MTI6MTAgQU0maGFzaF92YWx1ZT1ybE05alp2bVR1bHoxYlhFYnNVblZRPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=%22;
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/XA5u4gk.png" group-title="BDIX",DBC News (Ebox)
-http://tv2.ebox.live:8080/live/dbc.m3u8
+#EXTINF:-1 tvg-logo="https://concordrope.com/hzbd-iptv/logo/duronto_tv.jpg" group-title="BDIX",Duronto TV (TV Ebox)
+http://tv.ebox.live:8081/thunderbd/10/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvNC8yMDIxIDY6MTI6MTAgQU0maGFzaF92YWx1ZT1ybE05alp2bVR1bHoxYlhFYnNVblZRPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=%22;
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/53/ATN_News_Logo_3.GIF/120px-ATN_News_Logo_3.GIF" group-title="BDIX",ATN NEWS (BDIX)
-http://tv2.ebox.live:8080/live/ex-atnae.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/24/Nagorik_TV_Logo.png/150px-Nagorik_TV_Logo.png" group-title="BDIX",Nagorik TV (TV Ebox)
+http://tv.ebox.live:8081/thunderbd/59/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvNC8yMDIxIDY6MTI6MTAgQU0maGFzaF92YWx1ZT1ybE05alp2bVR1bHoxYlhFYnNVblZRPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=%22;
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Gaan_Bangla_Official_Logo_.png/220px-Gaan_Bangla_Official_Logo_.png" group-title="BDIX",Gaan Bangla Tv (Ebox)
-http://tv2.ebox.live:8080/live/ex-gan.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQcnazkCZllnvOH5ZuI484nrKvcLhqh91tU9fTJ4ZwgF4fm55aGbsOJOnG5ZXqFgHsiVcI&usqp=CAU" group-title="BDIX",Ananda TV (Ebox)
+http://tv.ebox.live:8081/thunderbd/16/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvNC8yMDIxIDY6MTI6MTAgQU0maGFzaF92YWx1ZT1ybE05alp2bVR1bHoxYlhFYnNVblZRPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=%22;
 
-#EXTINF:0 tvg-logo="https://s4.gifyu.com/images/image54942a3647a21709.png" group-title="BDIX",Maasranga (Ebox)
-http://tv2.ebox.live:8080/live/maasranga.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TfqhT5g.png" group-title="BDIX",News 24 (TV Ebox)
+http://tv.ebox.live:8081/thunderbd/18/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvNC8yMDIxIDY6MTI6MTAgQU0maGFzaF92YWx1ZT1ybE05alp2bVR1bHoxYlhFYnNVblZRPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=%22;
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/XA5u4gk.png" group-title="BDIX",DBC News (TV Ebox)
+http://tv.ebox.live:8081/thunderbd/7/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvNC8yMDIxIDY6MTI6MTAgQU0maGFzaF92YWx1ZT1ybE05alp2bVR1bHoxYlhFYnNVblZRPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=%22;
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/53/ATN_News_Logo_3.GIF/120px-ATN_News_Logo_3.GIF" group-title="BDIX",ATN NEWS (TV Ebox)
+http://tv.ebox.live:8081/thunderbd/49/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvNC8yMDIxIDY6MTI6MTAgQU0maGFzaF92YWx1ZT1ybE05alp2bVR1bHoxYlhFYnNVblZRPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=%22;
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/53/ATN_News_Logo_3.GIF/120px-ATN_News_Logo_3.GIF" group-title="BDIX",Movie Bangla (TV Ebox)
+http://tv.ebox.live:8081/thunderbd/19/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvNC8yMDIxIDY6MTI6MTAgQU0maGFzaF92YWx1ZT1ybE05alp2bVR1bHoxYlhFYnNVblZRPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=%22;
+
+#EXTINF:0 tvg-logo="https://s4.gifyu.com/images/image54942a3647a21709.png" group-title="BDIX",Maasranga (Tv Ebox)
+http://tv.ebox.live:8081/thunderbd/51/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvNC8yMDIxIDY6MTI6MTAgQU0maGFzaF92YWx1ZT1ybE05alp2bVR1bHoxYlhFYnNVblZRPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=%22;
 
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/ff/Channel9_bd.svg/260px-Channel9_bd.svg.png" group-title="BDIX",Channel 9 (Ebox)
 http://tv2.ebox.live:8080/live/channel9.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/85/Colors_Bangla_Logo.jpg" group-title="BDIX",Colors Bangla (Ebox)
-http://tv2.ebox.live:8080/live/colors-bangla.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/85/Colors_Bangla_Logo.jpg" group-title="BDIX",Colors Bangla HD (TV Ebox)
+http://tv.ebox.live:8081/thunderbd/66/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvNC8yMDIxIDY6MTI6MTAgQU0maGFzaF92YWx1ZT1ybE05alp2bVR1bHoxYlhFYnNVblZRPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=%22;
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/klVzNhT.png" group-title="BDIX",Sangeet Bangla (Ebox)
-http://103.49.168.172:8081/ebox/in_sangeetbangla/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AKedOLStHh2dnAyRzexuxwISlK8CPWNQb09Xr4tpYGBM=s900-c-k-c0x00ffffff-no-rj" group-title="BDIX",AKash 8 (TV Ebox)
+http://tv.ebox.live:8081/thunderbd/32/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvNC8yMDIxIDY6MTI6MTAgQU0maGFzaF92YWx1ZT1ybE05alp2bVR1bHoxYlhFYnNVblZRPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=%22;
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Sony_Aath_logo.svg/1200px-Sony_Aath_logo.svg.png" group-title="BDIX",Sony Aath (Ebox)
 http://103.49.168.172:8081/ebox/in_sonyaath/chunks.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/35/Zee_Bangla_New_Logo.jpg" group-title="BDIX",Zee Bangla Cinema (Ebox)
-http://tv2.ebox.live:8080/live/zee-cinema-bangla.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Nick_%28Logo%29.png/250px-Nick_%28Logo%29.png" group-title="BDIX",Nick (Tv Ebox)
+http://tv.ebox.live:8081/thunderbd/55/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvNC8yMDIxIDY6MTI6MTAgQU0maGFzaF92YWx1ZT1ybE05alp2bVR1bHoxYlhFYnNVblZRPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=%22;
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/35/Zee_Bangla_New_Logo.jpg" group-title="BDIX",Zee Bangla Cinema (TV Ebox)
+http://tv.ebox.live:8081/thunderbd/29/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvNC8yMDIxIDY6MTI6MTAgQU0maGFzaF92YWx1ZT1ybE05alp2bVR1bHoxYlhFYnNVblZRPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=%22;
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d0/Star_Jalsha_logo.jpg" group-title="BDIX",Star Jalsha HD (Ebox)
 http://tv2.ebox.live:8080/live/star-jalsha.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/35/Zee_Bangla_New_Logo.jpg" group-title="BDIX",Zee Bangla Ebox)
-http://tv2.ebox.live:8080/live/zee-bangla.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/5f/Sony_PIX.png" group-title="BDIX",109.Sony Pix HD (Ebox)
-http://103.49.168.172:8081/ebox/in_sonypix/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/35/Zee_Bangla_New_Logo.jpg" group-title="BDIX",Zee Bangla HD (TV Ebox)
+http://tv.ebox.live:8081/thunderbd/34/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvNC8yMDIxIDY6MTI6MTAgQU0maGFzaF92YWx1ZT1ybE05alp2bVR1bHoxYlhFYnNVblZRPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=%22;
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/ac/Jalsha_movies.png/220px-Jalsha_movies.png" group-title="BDIX",Jalsha Movies (Ebox)
 http://tv2.ebox.live:8080/live/star-jalsha-movies.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTsqYP00JX6oXBCFzX0G7LdQ1GUt-yGdEn7dFB5V7hHYhca30g-&usqp=CAU" group-title="BDIX",Star Plus HD (Ebox)
-http://tv2.ebox.live:8080/live/star-plus.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTsqYP00JX6oXBCFzX0G7LdQ1GUt-yGdEn7dFB5V7hHYhca30g-&usqp=CAU" group-title="BDIX",Star Plus HD (TV Ebox)
+http://tv.ebox.live:8081/thunderbd/67/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvNC8yMDIxIDY6MTI6MTAgQU0maGFzaF92YWx1ZT1ybE05alp2bVR1bHoxYlhFYnNVblZRPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=%22;
 
-#EXTINF:-1 tvg-logo="https://s4.gifyu.com/images/imageaf68096e14c7fa09.png" group-title="BDIX",Zee TV HD (Ebox)
-http://tv2.ebox.live:8080/live/zee-tv.m3u8
+#EXTINF:-1 tvg-logo="https://s4.gifyu.com/images/imageaf68096e14c7fa09.png" group-title="BDIX",Zee TV HD (TV Ebox)
+http://tv.ebox.live:8081/thunderbd/40/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvNC8yMDIxIDY6MTI6MTAgQU0maGFzaF92YWx1ZT1ybE05alp2bVR1bHoxYlhFYnNVblZRPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=%22;
 
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/44vdhjj6fja02co/CBHD.jpg" group-title="BDIX",Colors Hindi (Ebox)
-http://tv2.ebox.live:8080/live/colors.m3u8
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/44vdhjj6fja02co/CBHD.jpg" group-title="BDIX",Colors HD Hindi (TV Ebox)
+http://tv.ebox.live:8081/thunderbd/68/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvNC8yMDIxIDY6MTI6MTAgQU0maGFzaF92YWx1ZT1ybE05alp2bVR1bHoxYlhFYnNVblZRPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=%22;
 
-#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/240f5ca0-c383-11ea-a8de-81e06aece287/424356/71120774.jpg" group-title="BDIX",Sony Tv HD (Ebox)
-http://tv2.ebox.live:8080/live/sonyhd.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/04/AndTV_Logo.jpg" group-title="BDIX",& TV (TV Ebox)
+http://tv.ebox.live:8081/thunderbd/74/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvNC8yMDIxIDY6MTI6MTAgQU0maGFzaF92YWx1ZT1ybE05alp2bVR1bHoxYlhFYnNVblZRPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=%22;
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b3/Sony_SAB_%28TV%29.png" group-title="BDIX",Sony SAB (Ebox)
-http://tv2.ebox.live:8080/live/sony-sab.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/50/Zingdigital.jpg" group-title="BDIX",Zing (TV Ebox)
+http://tv.ebox.live:8081/thunderbd/93/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvNC8yMDIxIDY6MTI6MTAgQU0maGFzaF92YWx1ZT1ybE05alp2bVR1bHoxYlhFYnNVblZRPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=%22;
+
+#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/240f5ca0-c383-11ea-a8de-81e06aece287/424356/71120774.jpg" group-title="BDIX",Sony Tv HD (TV Ebox)
+http://tv.ebox.live:8081/thunderbd/38/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvNC8yMDIxIDY6MTI6MTAgQU0maGFzaF92YWx1ZT1ybE05alp2bVR1bHoxYlhFYnNVblZRPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=%22;
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b3/Sony_SAB_%28TV%29.png" group-title="BDIX",Sony SAB (TV Ebox)
+http://tv.ebox.live:8081/thunderbd/36/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvNC8yMDIxIDY6MTI6MTAgQU0maGFzaF92YWx1ZT1ybE05alp2bVR1bHoxYlhFYnNVblZRPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=%22;
 
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/f/f0/Star_Gold_2011.png" group-title="BDIX",Star gold (Ebox)
 http://tv2.ebox.live:8080/live/star-gold.m3u8
 
-#EXTINF:-1 tvg-logo="https://akamaividz.zee5.com/resources/0-9-zeecinemahd/list/386x386/09zeecinemahdzeecinemahd.png" group-title="BDIX",Zee Cinema HD
-http://tv2.ebox.live:8080/live/zee-cinema.m3u8
+#EXTINF:-1 tvg-logo="https://akamaividz.zee5.com/resources/0-9-zeecinemahd/list/386x386/09zeecinemahdzeecinemahd.png" group-title="BDIX",Zee Cinema HD (TV Ebox)
+http://tv.ebox.live:8081/thunderbd/76/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvNC8yMDIxIDY6MTI6MTAgQU0maGFzaF92YWx1ZT1ybE05alp2bVR1bHoxYlhFYnNVblZRPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=%22;
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/2hPF1YB.png" group-title="BDIX",SONY MAX HD (Ebox)
-https://any.hitectv.live:4443/sonymax/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/220px-Cartoon_Network_2010_logo.svg.png" group-title="BDIX",Cartoon Network (TV Ebox)
+http://tv.ebox.live:8081/thunderbd/79/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvNC8yMDIxIDY6MTI6MTAgQU0maGFzaF92YWx1ZT1ybE05alp2bVR1bHoxYlhFYnNVblZRPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=%22;
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/0piOCHd.png?1" group-title="BDIX",Sony MAX2 (Ebox)
-http://tv2.ebox.live:8080/live/sony-max-2.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2hPF1YB.png" group-title="BDIX",SONY MAX (TV Ebox)
+http://tv.ebox.live:8081/thunderbd/77/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvNC8yMDIxIDY6MTI6MTAgQU0maGFzaF92YWx1ZT1ybE05alp2bVR1bHoxYlhFYnNVblZRPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=%22;
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/5ca3012fcbc70colors-infinity-main.png/180px-5ca3012fcbc70colors-infinity-main.png" group-title="BDIX",Colors Infinity HD (Ebox)
 http://tv2.ebox.live:8080/live/color-Infinity.m3u8
@@ -123,11 +154,16 @@ http://tv2.ebox.live:8080/live/color-Infinity.m3u8
 #EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sonic_Amarnet IPTV.png" group-title="BDIX",Nick (Ebox)
 http://tv2.ebox.live:8080/live/nick.m3u8
 
-#EXTINF:0 tvg-logo="https://s6.gifyu.com/images/imagecd8ecb4abf754cde.png" group-title="BDIX",Discovery HD (Ebox)
-http://tv2.ebox.live:8080/live/discovery.m3u8
+#EXTINF:0 tvg-logo="https://s6.gifyu.com/images/imagecd8ecb4abf754cde.png" group-title="BDIX",Discovery HD (TV Ebox)
+http://tv.ebox.live:8081/thunderbd/43/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvNC8yMDIxIDY6MTI6MTAgQU0maGFzaF92YWx1ZT1ybE05alp2bVR1bHoxYlhFYnNVblZRPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=%22;
 
 #EXTINF:-1 tvg-logo="http://45.249.187.238/images/logo.png" group-title="BDIX",Animal Planet HD (Ebox)
 http://tv2.ebox.live:8080/live/animale-planet.m3u8
 
-#EXTINF:-1 tvg-logo="https://github.com/amarnettv/amarnettv.github.io/raw/master/logo/Three IPTV.png" group-title="BDIX",National Geographic HD (Ebox)
-http://tv2.ebox.live:8080/live/natg.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/amarnettv/amarnettv.github.io/raw/master/logo/Three IPTV.png" group-title="BDIX",National Geographic Arbi (TV Ebox)
+http://tv.ebox.live:8081/thunderbd/35/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvNC8yMDIxIDY6MTI6MTAgQU0maGFzaF92YWx1ZT1ybE05alp2bVR1bHoxYlhFYnNVblZRPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=%22;
+
+
+#EXTINF:-1 tvg-logo="data:image/png;base64,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" group-title="BDIX",LaLiga (TV Ebox)
+http://tv.ebox.live:8081/thunderbd/4/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvNC8yMDIxIDY6MTI6MTAgQU0maGFzaF92YWx1ZT1ybE05alp2bVR1bHoxYlhFYnNVblZRPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=%22;
+
