@@ -32,11 +32,11 @@ http://tv.ebox.live:8081/thunderbd/1/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9M
 http://tv.ebox.live:8081/thunderbd/1/chunks.m3u8?nimblesessionid=6386582&wmsAuthSign=c2VydmVyX3RpbWU9MTEvNC8yMDIxIDc6MzQ6MTcgQU0maGFzaF92YWx1ZT15Sk9LMnB3U1pVRXd5NHlrZ2pMYStnPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/11/T_Sports_logo.png/200px-T_Sports_logo.png" group-title="BDIX",T-sports (TV Ebox)
-http://tv.ebox.live:8081/thunderbd/1/chunks.m3u8?nimblesessionid=6243186&wmsAuthSign=c2VydmVyX3RpbWU9MTEvMy8yMDIxIDI6MDU6NDggUE0maGFzaF92YWx1ZT1LaGRxWDFEY25aV2F2U3o5bStuWldRPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/11/T_Sports_logo.png/200px-T_Sports_logo.png" group-title="BDIX",T-sports (FTP1)
+http://otv.ftpbd.net:1932/X6RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0UOezN/gazi-tvs/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/11/T_Sports_logo.png/200px-T_Sports_logo.png" group-title="BDIX",T-sports 2 (TV Ebox)
-http://tv.ebox.live:8081/thunderbd/102/chunks.m3u8?nimblesessionid=6243186&wmsAuthSign=c2VydmVyX3RpbWU9MTEvMy8yMDIxIDI6MDU6NDggUE0maGFzaF92YWx1ZT1LaGRxWDFEY25aV2F2U3o5bStuWldRPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/11/T_Sports_logo.png/200px-T_Sports_logo.png" group-title="BDIX",T-sports (FTP2)
+http://otv.ftpbd.net:1932/X6RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0UOezN/gazi-tvs/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/11/T_Sports_logo.png/200px-T_Sports_logo.png" group-title="BDIX",T-sports (TV2 Ebox)
 http://tv2.ebox.live:8080/live/nk-tsports.m3u8
